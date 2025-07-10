@@ -1,0 +1,145 @@
+Region,Month,Rainfall_mm,Temp_C
+Brong-Ahafo Region,January,25,28
+Brong-Ahafo Region,February,45,29
+Brong-Ahafo Region,March,95,30
+Brong-Ahafo Region,April,125,30
+Brong-Ahafo Region,May,155,29
+Brong-Ahafo Region,June,135,28
+Brong-Ahafo Region,July,95,27
+Brong-Ahafo Region,August,55,27
+Brong-Ahafo Region,September,105,28
+Brong-Ahafo Region,October,135,28
+Brong-Ahafo Region,November,65,28
+Brong-Ahafo Region,December,35,28
+Ashanti Region,January,20,28
+Ashanti Region,February,40,29
+Ashanti Region,March,90,30
+Ashanti Region,April,120,30
+Ashanti Region,May,150,29
+Ashanti Region,June,180,28
+Ashanti Region,July,115,27
+Ashanti Region,August,75,27
+Ashanti Region,September,135,28
+Ashanti Region,October,145,28
+Ashanti Region,November,55,28
+Ashanti Region,December,25,28
+Bono Region,January,20,28
+Bono Region,February,40,29
+Bono Region,March,90,30
+Bono Region,April,120,30
+Bono Region,May,150,29
+Bono Region,June,175,28
+Bono Region,July,110,27
+Bono Region,August,70,27
+Bono Region,September,130,28
+Bono Region,October,140,28
+Bono Region,November,60,28
+Bono Region,December,30,28
+Bono East Region,January,15,29
+Bono East Region,February,35,30
+Bono East Region,March,85,31
+Bono East Region,April,115,31
+Bono East Region,May,145,30
+Bono East Region,June,165,29
+Bono East Region,July,105,28
+Bono East Region,August,65,28
+Bono East Region,September,125,29
+Bono East Region,October,135,29
+Bono East Region,November,50,29
+Bono East Region,December,20,29
+Central Region,January,25,28
+Central Region,February,45,29
+Central Region,March,85,30
+Central Region,April,125,30
+Central Region,May,185,29
+Central Region,June,205,28
+Central Region,July,125,27
+Central Region,August,85,27
+Central Region,September,155,28
+Central Region,October,165,28
+Central Region,November,75,28
+Central Region,December,35,28
+Eastern Region,January,30,28
+Eastern Region,February,50,29
+Eastern Region,March,95,30
+Eastern Region,April,135,30
+Eastern Region,May,175,29
+Eastern Region,June,195,28
+Eastern Region,July,115,27
+Eastern Region,August,75,27
+Eastern Region,September,145,28
+Eastern Region,October,155,28
+Eastern Region,November,65,28
+Eastern Region,December,35,28
+Greater Accra Region,January,20,28
+Greater Accra Region,February,35,29
+Greater Accra Region,March,75,30
+Greater Accra Region,April,115,31
+Greater Accra Region,May,155,30
+Greater Accra Region,June,185,29
+Greater Accra Region,July,95,28
+Greater Accra Region,August,55,28
+Greater Accra Region,September,125,29
+Greater Accra Region,October,135,29
+Greater Accra Region,November,55,29
+Greater Accra Region,December,25,29
+Northern Region,January,10,30
+Northern Region,February,20,31
+Northern Region,March,55,33
+Northern Region,April,95,34
+Northern Region,May,125,33
+Northern Region,June,145,31
+Northern Region,July,155,29
+Northern Region,August,135,28
+Northern Region,September,125,29
+Northern Region,October,85,30
+Northern Region,November,25,30
+Northern Region,December,10,30
+Upper East Region,January,5,30
+Upper East Region,February,15,32
+Upper East Region,March,45,34
+Upper East Region,April,75,35
+Upper East Region,May,105,34
+Upper East Region,June,125,32
+Upper East Region,July,145,30
+Upper East Region,August,135,29
+Upper East Region,September,115,30
+Upper East Region,October,65,31
+Upper East Region,November,15,31
+Upper East Region,December,5,30
+Upper West Region,January,5,30
+Upper West Region,February,15,32
+Upper West Region,March,50,34
+Upper West Region,April,80,35
+Upper West Region,May,115,34
+Upper West Region,June,135,32
+Upper West Region,July,155,30
+Upper West Region,August,145,29
+Upper West Region,September,120,30
+Upper West Region,October,70,31
+Upper West Region,November,20,31
+Upper West Region,December,5,30
+Western Region,January,30,27
+Western Region,February,50,28
+Western Region,March,100,29
+Western Region,April,150,29
+Western Region,May,200,28
+Western Region,June,220,27
+Western Region,July,130,26
+Western Region,August,90,26
+Western Region,September,160,27
+Western Region,October,170,27
+Western Region,November,80,27
+Western Region,December,40,27
+Western North Region,January,25,28
+Western North Region,February,45,29
+Western North Region,March,95,30
+Western North Region,April,145,30
+Western North Region,May,195,29
+Western North Region,June,215,28
+Western North Region,July,125,27
+Western North Region,August,85,27
+Western North Region,September,155,28
+Western North Region,October,165,28
+Western North Region,November,75,28
+Western North Region,December,35,28

@@ -1,0 +1,993 @@
+Crop,Region,Month,N_percent,P_mg_per_kg,K_cmol_per_kg,pH,Temp_C,Rainfall_mm,Yield_t_per_ha
+Cocoyam,Volta,January,0.05,5.9,0.34,5.8,25.9,50,5.10
+Cocoyam,Volta,February,0.06,6.2,0.36,5.9,26.1,55,5.20
+Cocoyam,Volta,March,0.07,6.6,0.39,6.0,26.4,80,5.40
+Cocoyam,Volta,April,0.06,6.4,0.38,5.9,26.2,105,5.50
+Cocoyam,Volta,May,0.08,7.3,0.43,6.1,26.7,195,5.80
+Cocoyam,Volta,June,0.07,7.5,0.45,6.1,27.0,270,6.00
+Cocoyam,Volta,July,0.06,7.0,0.41,6.0,26.5,175,5.70
+Cocoyam,Volta,August,0.05,5.8,0.34,5.8,25.8,70,5.00
+Cocoyam,Volta,September,0.06,6.3,0.37,5.9,26.3,115,5.30
+Cocoyam,Volta,October,0.08,7.6,0.46,6.1,27.1,250,5.90
+Cocoyam,Volta,November,0.07,6.9,0.40,6.0,26.6,185,5.60
+Cocoyam,Volta,December,0.05,6.0,0.35,5.8,26.0,105,5.20
+Yam,Volta,January,0.05,6.0,0.35,5.8,25.9,50,5.60
+Yam,Volta,February,0.06,6.3,0.37,5.9,26.1,55,5.70
+Yam,Volta,March,0.07,6.7,0.40,6.0,26.4,80,5.90
+Yam,Volta,April,0.06,6.5,0.39,5.9,26.2,105,6.00
+Yam,Volta,May,0.08,7.4,0.44,6.1,26.7,195,6.30
+Yam,Volta,June,0.07,7.6,0.46,6.1,27.0,270,6.50
+Yam,Volta,July,0.06,7.1,0.42,6.0,26.5,175,6.20
+Yam,Volta,August,0.05,5.9,0.34,5.8,25.8,70,5.50
+Yam,Volta,September,0.06,6.4,0.38,5.9,26.3,115,5.80
+Yam,Volta,October,0.08,7.7,0.47,6.1,27.1,250,6.40
+Yam,Volta,November,0.07,7.0,0.41,6.0,26.6,185,6.10
+Yam,Volta,December,0.05,6.1,0.36,5.8,26.0,105,5.70
+Tomato,Volta,January,0.05,6.2,0.37,5.8,25.9,50,9.20
+Tomato,Volta,February,0.06,6.5,0.39,5.9,26.1,55,9.40
+Tomato,Volta,March,0.07,6.9,0.42,6.0,26.4,80,9.70
+Tomato,Volta,April,0.06,6.7,0.41,5.9,26.2,105,9.90
+Tomato,Volta,May,0.08,7.6,0.46,6.1,26.7,195,10.30
+Tomato,Volta,June,0.07,7.8,0.48,6.1,27.0,270,10.50
+Tomato,Volta,July,0.06,7.2,0.43,6.0,26.5,175,10.10
+Tomato,Volta,August,0.05,6.0,0.35,5.8,25.8,70,9.10
+Tomato,Volta,September,0.06,6.6,0.40,5.9,26.3,115,9.60
+Tomato,Volta,October,0.08,7.9,0.49,6.1,27.1,250,10.40
+Tomato,Volta,November,0.07,7.1,0.43,6.0,26.6,185,10.00
+Tomato,Volta,December,0.05,6.3,0.38,5.8,26.0,105,9.50
+Pepper,Volta,January,0.05,6.3,0.38,5.8,25.9,50,13.70
+Pepper,Volta,February,0.06,6.6,0.40,5.9,26.1,55,13.90
+Pepper,Volta,March,0.07,7.0,0.43,6.0,26.4,80,14.40
+Pepper,Volta,April,0.06,6.8,0.42,5.9,26.2,105,14.60
+Pepper,Volta,May,0.08,7.7,0.47,6.1,26.7,195,15.10
+Pepper,Volta,June,0.07,7.9,0.49,6.1,27.0,270,15.40
+Pepper,Volta,July,0.06,7.3,0.44,6.0,26.5,175,14.80
+Pepper,Volta,August,0.05,6.1,0.36,5.8,25.8,70,13.50
+Pepper,Volta,September,0.06,6.7,0.41,5.9,26.3,115,14.20
+Pepper,Volta,October,0.08,8.0,0.50,6.1,27.1,250,15.20
+Pepper,Volta,November,0.07,7.2,0.44,6.0,26.6,185,14.70
+Pepper,Volta,December,0.05,6.4,0.39,5.8,26.0,105,13.90
+Maize,Volta,January,0.05,6.0,0.34,5.8,26.0,50,2.30
+Maize,Volta,February,0.06,6.3,0.36,5.9,26.2,55,2.40
+Maize,Volta,March,0.07,6.7,0.39,6.0,26.5,80,2.60
+Maize,Volta,April,0.06,6.5,0.38,5.9,26.3,105,2.70
+Maize,Volta,May,0.08,7.3,0.43,6.1,26.8,195,2.90
+Maize,Volta,June,0.07,7.5,0.45,6.1,27.1,270,3.10
+Maize,Volta,July,0.06,7.0,0.41,6.0,26.6,175,2.80
+Maize,Volta,August,0.05,5.9,0.34,5.8,25.9,70,2.20
+Maize,Volta,September,0.06,6.4,0.37,5.9,26.4,115,2.50
+Maize,Volta,October,0.08,7.6,0.46,6.1,27.2,250,3.00
+Maize,Volta,November,0.07,6.9,0.40,6.0,26.7,185,2.80
+Maize,Volta,December,0.05,6.1,0.35,5.8,26.1,105,2.40
+Rice,Volta,January,0.05,6.1,0.35,5.8,26.0,50,2.90
+Rice,Volta,February,0.06,6.4,0.37,5.9,26.2,55,3.00
+Rice,Volta,March,0.07,6.8,0.40,6.0,26.5,80,3.20
+Rice,Volta,April,0.06,6.6,0.39,5.9,26.3,105,3.30
+Rice,Volta,May,0.08,7.5,0.44,6.1,26.8,195,3.60
+Rice,Volta,June,0.07,7.7,0.46,6.1,27.1,270,3.80
+Rice,Volta,July,0.06,7.1,0.42,6.0,26.6,175,3.40
+Rice,Volta,August,0.05,6.0,0.34,5.8,25.9,70,2.80
+Rice,Volta,September,0.06,6.5,0.38,5.9,26.4,115,3.10
+Rice,Volta,October,0.08,7.8,0.47,6.1,27.2,250,3.70
+Rice,Volta,November,0.07,7.0,0.41,6.0,26.7,185,3.40
+Rice,Volta,December,0.05,6.2,0.36,5.8,26.1,105,3.00
+Cassava,Volta,January,0.05,6.3,0.37,5.8,26.0,50,22.00
+Cassava,Volta,February,0.06,6.6,0.39,5.9,26.2,55,22.50
+Cassava,Volta,March,0.07,7.0,0.42,6.0,26.5,80,23.50
+Cassava,Volta,April,0.06,6.8,0.41,5.9,26.3,105,24.00
+Cassava,Volta,May,0.08,7.7,0.46,6.1,26.8,195,25.50
+Cassava,Volta,June,0.07,7.9,0.48,6.1,27.1,270,26.00
+Cassava,Volta,July,0.06,7.3,0.44,6.0,26.6,175,24.50
+Cassava,Volta,August,0.05,6.1,0.35,5.8,25.9,70,21.50
+Cassava,Volta,September,0.06,6.7,0.40,5.9,26.4,115,23.00
+Cassava,Volta,October,0.08,8.0,0.49,6.1,27.2,250,25.80
+Cassava,Volta,November,0.07,7.2,0.43,6.0,26.7,185,24.50
+Cassava,Volta,December,0.05,6.4,0.38,5.8,26.1,105,22.50
+Plantain,Volta,January,0.05,6.2,0.36,5.8,26.0,50,13.00
+Plantain,Volta,February,0.06,6.5,0.38,5.9,26.2,55,13.30
+Plantain,Volta,March,0.07,6.9,0.41,6.0,26.5,80,14.00
+Plantain,Volta,April,0.06,6.7,0.40,5.9,26.3,105,14.30
+Plantain,Volta,May,0.08,7.6,0.45,6.1,26.8,195,15.00
+Plantain,Volta,June,0.07,7.8,0.47,6.1,27.1,270,15.50
+Plantain,Volta,July,0.06,7.2,0.43,6.0,26.6,175,14.50
+Plantain,Volta,August,0.05,6.0,0.35,5.8,25.9,70,12.80
+Plantain,Volta,September,0.06,6.6,0.39,5.9,26.4,115,13.80
+Plantain,Volta,October,0.08,7.9,0.48,6.1,27.2,250,15.30
+Plantain,Volta,November,0.07,7.1,0.42,6.0,26.7,185,14.50
+Plantain,Volta,December,0.05,6.3,0.37,5.8,26.1,105,13.30
+Cocoyam,Upper West,January,0.04,5.5,0.31,5.5,26.8,5,4.70
+Cocoyam,Upper West,February,0.05,5.7,0.32,5.6,27.1,10,4.80
+Cocoyam,Upper West,March,0.05,5.9,0.33,5.6,27.5,25,5.00
+Cocoyam,Upper West,April,0.06,6.1,0.35,5.7,27.8,50,5.10
+Cocoyam,Upper West,May,0.06,6.5,0.37,5.7,28.1,110,5.40
+Cocoyam,Upper West,June,0.07,6.9,0.40,5.8,28.3,180,5.60
+Cocoyam,Upper West,July,0.07,7.3,0.43,5.8,28.5,240,5.80
+Cocoyam,Upper West,August,0.07,7.5,0.45,5.8,28.3,280,5.90
+Cocoyam,Upper West,September,0.07,7.4,0.44,5.8,28.1,260,5.80
+Cocoyam,Upper West,October,0.06,7.0,0.41,5.7,27.8,180,5.60
+Cocoyam,Upper West,November,0.05,6.4,0.37,5.7,27.3,70,5.30
+Cocoyam,Upper West,December,0.04,5.8,0.33,5.6,26.9,15,4.80
+Yam,Upper West,January,0.04,5.6,0.32,5.5,26.8,5,5.20
+Yam,Upper West,February,0.05,5.8,0.33,5.6,27.1,10,5.30
+Yam,Upper West,March,0.05,6.0,0.34,5.6,27.5,25,5.50
+Yam,Upper West,April,0.06,6.2,0.36,5.7,27.8,50,5.60
+Yam,Upper West,May,0.06,6.6,0.38,5.7,28.1,110,5.90
+Yam,Upper West,June,0.07,7.0,0.41,5.8,28.3,180,6.10
+Yam,Upper West,July,0.07,7.4,0.44,5.8,28.5,240,6.30
+Yam,Upper West,August,0.07,7.6,0.46,5.8,28.3,280,6.40
+Yam,Upper West,September,0.07,7.5,0.45,5.8,28.1,260,6.30
+Yam,Upper West,October,0.06,7.1,0.42,5.7,27.8,180,6.10
+Yam,Upper West,November,0.05,6.5,0.38,5.7,27.3,70,5.80
+Yam,Upper West,December,0.04,5.9,0.34,5.6,26.9,15,5.30
+Tomato,Upper West,January,0.04,5.8,0.34,5.5,26.8,5,8.80
+Tomato,Upper West,February,0.05,6.0,0.35,5.6,27.1,10,9.00
+Tomato,Upper West,March,0.05,6.2,0.37,5.6,27.5,25,9.30
+Tomato,Upper West,April,0.06,6.4,0.39,5.7,27.8,50,9.50
+Tomato,Upper West,May,0.06,6.8,0.41,5.7,28.1,110,9.90
+Tomato,Upper West,June,0.07,7.2,0.44,5.8,28.3,180,10.10
+Tomato,Upper West,July,0.07,7.6,0.47,5.8,28.5,240,10.30
+Tomato,Upper West,August,0.07,7.8,0.49,5.8,28.3,280,10.40
+Tomato,Upper West,September,0.07,7.7,0.48,5.8,28.1,260,10.30
+Tomato,Upper West,October,0.06,7.3,0.45,5.7,27.8,180,10.10
+Tomato,Upper West,November,0.05,6.7,0.41,5.7,27.3,70,9.70
+Tomato,Upper West,December,0.04,6.1,0.36,5.6,26.9,15,9.10
+Pepper,Upper West,January,0.04,5.9,0.35,5.5,26.8,5,13.30
+Pepper,Upper West,February,0.05,6.1,0.36,5.6,27.1,10,13.50
+Pepper,Upper West,March,0.05,6.3,0.38,5.6,27.5,25,14.00
+Pepper,Upper West,April,0.06,6.5,0.40,5.7,27.8,50,14.20
+Pepper,Upper West,May,0.06,6.9,0.42,5.7,28.1,110,14.70
+Pepper,Upper West,June,0.07,7.3,0.45,5.8,28.3,180,15.00
+Pepper,Upper West,July,0.07,7.7,0.48,5.8,28.5,240,15.30
+Pepper,Upper West,August,0.07,7.9,0.50,5.8,28.3,280,15.40
+Pepper,Upper West,September,0.07,7.8,0.49,5.8,28.1,260,15.30
+Pepper,Upper West,October,0.06,7.4,0.46,5.7,27.8,180,15.00
+Pepper,Upper West,November,0.05,6.8,0.42,5.7,27.3,70,14.50
+Pepper,Upper West,December,0.04,6.2,0.37,5.6,26.9,15,13.60
+Maize,Upper West,January,0.04,5.6,0.31,5.5,26.8,5,2.00
+Maize,Upper West,February,0.05,5.8,0.32,5.6,27.1,10,2.10
+Maize,Upper West,March,0.05,6.0,0.33,5.6,27.5,25,2.20
+Maize,Upper West,April,0.06,6.2,0.35,5.7,27.8,50,2.40
+Maize,Upper West,May,0.06,6.6,0.37,5.7,28.1,110,2.60
+Maize,Upper West,June,0.07,7.0,0.40,5.8,28.3,180,2.80
+Maize,Upper West,July,0.07,7.4,0.43,5.8,28.5,240,3.00
+Maize,Upper West,August,0.07,7.6,0.45,5.8,28.3,280,3.10
+Maize,Upper West,September,0.07,7.5,0.44,5.8,28.1,260,3.00
+Maize,Upper West,October,0.06,7.1,0.41,5.7,27.8,180,2.80
+Maize,Upper West,November,0.05,6.5,0.37,5.7,27.3,70,2.50
+Maize,Upper West,December,0.04,5.9,0.33,5.6,26.9,15,2.10
+Rice,Upper West,January,0.04,5.7,0.32,5.5,26.8,5,2.60
+Rice,Upper West,February,0.05,5.9,0.33,5.6,27.1,10,2.70
+Rice,Upper West,March,0.05,6.1,0.34,5.6,27.5,25,2.90
+Rice,Upper West,April,0.06,6.3,0.36,5.7,27.8,50,3.10
+Rice,Upper West,May,0.06,6.7,0.38,5.7,28.1,110,3.30
+Rice,Upper West,June,0.07,7.1,0.41,5.8,28.3,180,3.50
+Rice,Upper West,July,0.07,7.5,0.44,5.8,28.5,240,3.70
+Rice,Upper West,August,0.07,7.7,0.46,5.8,28.3,280,3.80
+Rice,Upper West,September,0.07,7.6,0.45,5.8,28.1,260,3.70
+Rice,Upper West,October,0.06,7.2,0.42,5.7,27.8,180,3.50
+Rice,Upper West,November,0.05,6.6,0.38, roughly,5.7,27.3,70,3.20
+Rice,Upper West,December,0.04,6.0,0.34,5.6,26.9,15,2.70
+Cassava,Upper West,January,0.04,5.8,0.33,5.5,26.8,5,18.00
+Cassava,Upper West,February,0.05,6.0,0.34,5.6,27.1,10,18.50
+Cassava,Upper West,March,0.05,6.2,0.35,5.6,27.5,25,19.50
+Cassava,Upper West,April,0.06,6.4,0.37,5.7,27.8,50,20.00
+Cassava,Upper West,May,0.06,6.8,0.39,5.7,28.1,110,21.50
+Cassava,Upper West,June,0.07,7.2,0.42,5.8,28.3,180,22.50
+Cassava,Upper West,July,0.07,7.6,0.45,5.8,28.5,240,23.00
+Cassava,Upper West,August,0.07,7.8,0.47,5.8,28.3,280,23.50
+Cassava,Upper West,September,0.07,7.7,0.46,5.8,28.1,260,23.00
+Cassava,Upper West,October,0.06,7.3,0.43,5.7,27.8,180,22.50
+Cassava,Upper West,November,0.05,6.7,0.39,5.7,27.3,70,21.00
+Cassava,Upper West,December,0.04,6.1,0.35,5.6,26.9,15,18.50
+Plantain,Upper West,January,0.04,5.7,0.32,5.5,26.8,5,10.00
+Plantain,Upper West,February,0.05,5.9,0.33,5.6,27.1,10,10.30
+Plantain,Upper West,March,0.05,6.1,0.34,5.6,27.5,25,11.00
+Plantain,Upper West,April,0.06,6.3,0.36,5.7,27.8,50,11.30
+Plantain,Upper West,May,0.06,6.7,0.38,5.7,28.1,110,12.00
+Plantain,Upper West,June,0.07,7.1,0.41,5.8,28.3,180,12.50
+Plantain,Upper West,July,0.07,7.5,0.44,5.8,28.5,240,13.00
+Plantain,Upper West,August,0.07,7.7,0.46,5.8,28.3,280,13.30
+Plantain,Upper West,September,0.07,7.6,0.45,5.8,28.1,260,13.00
+Plantain,Upper West,October,0.06,7.2,0.42,5.7,27.8,180,12.50
+Plantain,Upper West,November,0.05,6.6,0.38,5.7,27.3,70,11.50
+Plantain,Upper West,December,0.04,6.0,0.34,5.6,26.9,15,10.30
+Cocoyam,Upper East,January,0.04,5.6,0.31,5.5,26.7,5,4.70
+Cocoyam,Upper East,February,0.05,5.8,0.32,5.6,27.0,10,4.80
+Cocoyam,Upper East,March,0.05,6.0,0.33,5.6,27.4,25,5.00
+Cocoyam,Upper East,April,0.06,6.2,0.35,5.7,27.7,50,5.10
+Cocoyam,Upper East,May,0.06,6.6,0.37,5.7,28.0,110,5.40
+Cocoyam,Upper East,June,0.07,7.0,0.40,5.8,28.2,180,5.60
+Cocoyam,Upper East,July,0.07,7.4,0.43,5.8,28.4,240,5.80
+Cocoyam,Upper East,August,0.07,7.6,0.45,5.8,28.2,280,5.90
+Cocoyam,Upper East,September,0.07,7.5,0.44,5.8,28.0,260,5.80
+Cocoyam,Upper East,October,0.06,7.1,0.41,5.7,27.7,180,5.60
+Cocoyam,Upper East,November,0.05,6.5,0.37,5.7,27.2,70,5.30
+Cocoyam,Upper East,December,0.04,5.9,0.33,5.6,26.8,15,4.80
+Yam,Upper East,January,0.04,5.7,0.32,5.5,26.7,5,5.20
+Yam,Upper East,February,0.05,5.9,0.33,5.6,27.0,10,5.30
+Yam,Upper East,March,0.05,6.1,0.34,5.6,27.4,25,5.50
+Yam,Upper East,April,0.06,6.3,0.36,5.7,27.7,50,5.60
+Yam,Upper East,May,0.06,6.7,0.38,5.7,28.0,110,5.90
+Yam,Upper East,June,0.07,7.1,0.41,5.8,28.2,180,6.10
+Yam,Upper East,July,0.07,7.5,0.44,5.8,28.4,240,6.30
+Yam,Upper East,August,0.07,7.7,0.46,5.8,28.2,280,6.40
+Yam,Upper East,September,0.07,7.6,0.45,5.8,28.0,260,6.30
+Yam,Upper East,October,0.06,7.2,0.42,5.7,27.7,180,6.10
+Yam,Upper East,November,0.05,6.6,0.38,5.7,27.2,70,5.80
+Yam,Upper East,December,0.04,6.0,0.34,5.6,26.8,15,5.30
+Tomato,Upper East,January,0.04,5.9,0.34,5.5,26.7,5,8.80
+Tomato,Upper East,February,0.05,6.1,0.35,5.6,27.0,10,9.00
+Tomato,Upper East,March,0.05,6.3,0.37,5.6,27.4,25,9.30
+Tomato,Upper East,April,0.06,6.5,0.39,5.7,27.7,50,9.50
+Tomato,Upper East,May,0.06,6.9,0.41,5.7,28.0,110,9.90
+Tomato,Upper East,June,0.07,7.3,0.44,5.8,28.2,180,10.10
+Tomato,Upper East,July,0.07,7.7,0.47,5.8,28.4,240,10.30
+Tomato,Upper East,August,0.07,7.9,0.49,5.8,28.2,280,10.40
+Tomato,Upper East,September,0.07,7.8,0.48,5.8,28.0,260,10.30
+Tomato,Upper East,October,0.06,7.4,0.45,5.7,27.7,180,10.10
+Tomato,Upper East,November,0.05,6.8,0.41,5.7,27.2,70,9.70
+Tomato,Upper East,December,0.04,6.2,0.36,5.6,26.8,15,9.10
+Pepper,Upper East,January,0.04,6.0,0.35,5.5,26.7,5,13.30
+Pepper,Upper East,February,0.05,6.2,0.36,5.6,27.0,10,13.50
+Pepper,Upper East,March,0.05,6.4,0.38,5.6,27.4,25,14.00
+Pepper,Upper East,April,0.06,6.6,0.40,5.7,27.7,50,14.20
+Pepper,Upper East,May,0.06,7.0,0.42,5.7,28.0,110,14.70
+Pepper,Upper East,June,0.07,7.4,0.45,5.8,28.2,180,15.00
+Pepper,Upper East,July,0.07,7.8,0.48,5.8,28.4,240,15.30
+Pepper,Upper East,August,0.07,8.0,0.50,5.8,28.2,280,15.40
+Pepper,Upper East,September,0.07,7.9,0.49,5.8,28.0,260,15.30
+Pepper,Upper East,October,0.06,7.5,0.46,5.7,27.7,180,15.00
+Pepper,Upper East,November,0.05,6.9,0.42,5.7,27.2,70,14.50
+Pepper,Upper East,December,0.04,6.3,0.37,5.6,26.8,15,13.60
+Maize,Upper East,January,0.04,5.7,0.31,5.5,26.7,5,2.00
+Maize,Upper East,February,0.05,5.9,0.32,5.6,27.0,10,2.10
+Maize,Upper East,March,0.05,6.1,0.33,5.6,27.4,25,2.20
+Maize,Upper East,April,0.06,6.3,0.35,5.7,27.7,50,2.40
+Maize,Upper East,May,0.06,6.7,0.37,5.7,28.0,110,2.60
+Maize,Upper East,June,0.07,7.1,0.40,5.8,28.2,180,2.80
+Maize,Upper East,July,0.07,7.5,0.43,5.8,28.4,240,3.00
+Maize,Upper East,August,0.07,7.7,0.45,5.8,28.2,280,3.10
+Maize,Upper East,September,0.07,7.6,0.44,5.8,28.0,260,3.00
+Maize,Upper East,October,0.06,7.2,0.41,5.7,27.7,180,2.80
+Maize,Upper East,November,0.05,6.6,0.37,5.7,27.2,70,2.50
+Maize,Upper East,December,0.04,6.0,0.33,5.6,26.8,15,2.10
+Rice,Upper East,January,0.04,5.8,0.32,5.5,26.7,5,2.60
+Rice,Upper East,February,0.05,6.0,0.33,5.6,27.0,10,2.70
+Rice,Upper East,March,0.05,6.2,0.34,5.6,27.4,25,2.90
+Rice,Upper East,April,0.06,6.4,0.36,5.7,27.7,50,3.10
+Rice,Upper East,May,0.06,6.8,0.38,5.7,28.0,110,3.30
+Rice,Upper East,June,0.07,7.2,0.41,5.8,28.2,180,3.50
+Rice,Upper East,July,0.07,7.6,0.44,5.8,28.4,240,3.70
+Rice,Upper East,August,0.07,7.8,0.46,5.8,28.2,280,3.80
+Rice,Upper East,September,0.07,7.7,0.45,5.8,28.0,260,3.70
+Rice,Upper East,October,0.06,7.3,0.42,5.7,27.7,180,3.50
+Rice,Upper East,November,0.05,6.7,0.38,5.7,27.2,70,3.20
+Rice,Upper East,December,0.04,6.1,0.34,5.6,26.8,15,2.70
+Cassava,Upper East,January,0.04,5.9,0.33,5.5,26.7,5,18.00
+Cassava,Upper East,February,0.05,6.1,0.34,5.6,27.0,10,18.50
+Cassava,Upper East,March,0.05,6.3,0.35,5.6,27.4,25,19.50
+Cassava,Upper East,April,0.06,6.5,0.37,5.7,27.7,50,20.00
+Cassava,Upper East,May,0.06,6.9,0.39,5.7,28.0,110,21.50
+Cassava,Upper East,June,0.07,7.3,0.42,5.8,28.2,180,22.50
+Cassava,Upper East,July,0.07,7.7,0.45,5.8,28.4,240,23.00
+Cassava,Upper East,August,0.07,7.9,0.47,5.8,28.2,280,23.50
+Cassava,Upper East,September,0.07,7.8,0.46,5.8,28.0,260,23.00
+Cassava,Upper East,October,0.06,7.4,0.43,5.7,27.7,180,22.50
+Cassava,Upper East,November,0.05,6.8,0.39,5.7,27.2,70,21.00
+Cassava,Upper East,December,0.04,6.2,0.35,5.6,26.8,15,18.50
+Plantain,Upper East,January,0.04,5.8,0.32,5.5,26.7,5,10.00
+Plantain,Upper East,February,0.05,6.0,0.33,5.6,27.0,10,10.30
+Plantain,Upper East,March,0.05,6.2,0.34,5.6,27.4,25,11.00
+Plantain,Upper East,April,0.06,6.4,0.36,5.7,27.7,50,11.30
+Plantain,Upper East,May,0.06,6.8,0.38,5.7,28.0,110,12.00
+Plantain,Upper East,June,0.07,7.2,0.41,5.8,28.2,180,12.50
+Plantain,Upper East,July,0.07,7.6,0.44,5.8,28.4,240,13.00
+Plantain,Upper East,August,0.07,7.8,0.46,5.8,28.2,280,13.30
+Plantain,Upper East,September,0.07,7.7,0.45,5.8,28.0,260,13.00
+Plantain,Upper East,October,0.06,7.3,0.42,5.7,27.7,180,12.50
+Plantain,Upper East,November,0.05,6.7,0.38,5.7,27.2,70,11.50
+Plantain,Upper East,December,0.04,6.1,0.34,5.6,26.8,15,10.30
+Cocoyam,Northern,January,0.04,5.7,0.32,5.6,26.5,10,4.80
+Cocoyam,Northern,February,0.05,5.9,0.33,5.7,26.8,15,4.90
+Cocoyam,Northern,March,0.05,6.1,0.34,5.7,27.2,30,5.10
+Cocoyam,Northern,April,0.06,6.3,0.36,5.8,27.5,60,5.20
+Cocoyam,Northern,May,0.06,6.7,0.38,5.8,27.8,120,5.50
+Cocoyam,Northern,June,0.07,7.1,0.41,5.9,28.0,200,5.70
+Cocoyam,Northern,July,0.08,7.5,0.44,5.9,28.2,260,5.90
+Cocoyam,Northern,August,0.08,7.7,0.46,5.9,28.0,300,6.00
+Cocoyam,Northern,September,0.08,7.6,0.45,5.9,27.8,280,5.90
+Cocoyam,Northern,October,0.07,7.2,0.42,5.8,27.5,200,5.70
+Cocoyam,Northern,November,0.06,6.6,0.38,5.8,27.0,80,5.40
+Cocoyam,Northern,December,0.05,6.0,0.34,5.7,26.6,20,4.90
+Yam,Northern,January,0.04,5.8,0.33,5.6,26.5,10,5.30
+Yam,Northern,February,0.05,6.0,0.34,5.7,26.8,15,5.40
+Yam,Northern,March,0.05,6.2,0.35,5.7,27.2,30,5.60
+Yam,Northern,April,0.06,6.4,0.37,5.8,27.5,60,5.70
+Yam,Northern,May,0.06,6.8,0.39,5.8,27.8,120,6.00
+Yam,Northern,June,0.07,7.2,0.42,5.9,28.0,200,6.20
+Yam,Northern,July,0.08,7.6,0.45,5.9,28.2,260,6.40
+Yam,Northern,August,0.08,7.8,0.47,5.9,28.0,300,6.50
+Yam,Northern,September,0.08,7.7,0.46,5.9,27.8,280,6.40
+Yam,Northern,October,0.07,7.3,0.43,5.8,27.5,200,6.20
+Yam,Northern,November,0.06,6.7,0.39,5.8,27.0,80,5.90
+Yam,Northern,December,0.05,6.1,0.35,5.7,26.6,20,5.40
+Tomato,Northern,January,0.04,6.0,0.35,5.6,26.5,10,8.90
+Tomato,Northern,February,0.05,6.2,0.36,5.7,26.8,15,9.10
+Tomato,Northern,March,0.05,6.4,0.38,5.7,27.2,30,9.40
+Tomato,Northern,April,0.06,6.6,0.40,5.8,27.5,60,9.60
+Tomato,Northern,May,0.06,7.0,0.42,5.8,27.8,120,10.00
+Tomato,Northern,June,0.07,7.4,0.45,5.9,28.0,200,10.20
+Tomato,Northern,July,0.08,7.8,0.48,5.9,28.2,260,10.40
+Tomato,Northern,August,0.08,8.0,0.50,5.9,28.0,300,10.50
+Tomato,Northern,September,0.08,7.9,0.49,5.9,27.8,280,10.40
+Tomato,Northern,October,0.07,7.5,0.46,5.8,27.5,200,10.20
+Tomato,Northern,November,0.06,6.9,0.42,5.8,27.0,80,9.80
+Tomato,Northern,December,0.05,6.3,0.37,5.7,26.6,20,9.20
+Pepper,Northern,January,0.04,6.1,0.36,5.6,26.5,10,13.40
+Pepper,Northern,February,0.05,6.3,0.37,5.7,26.8,15,13.60
+Pepper,Northern,March,0.05,6.5,0.39,5.7,27.2,30,14.10
+Pepper,Northern,April,0.06,6.7,0.41,5.8,27.5,60,14.30
+Pepper,Northern,May,0.06,7.1,0.43,5.8,27.8,120,14.80
+Pepper,Northern,June,0.07,7.5,0.46,5.9,28.0,200,15.10
+Pepper,Northern,July,0.08,7.9,0.49,5.9,28.2,260,15.40
+Pepper,Northern,August,0.08,8.1,0.51,5.9,28.0,300,15.50
+Pepper,Northern,September,0.08,8.0,0.50,5.9,27.8,280,15.40
+Pepper,Northern,October,0.07,7.6,0.47,5.8,27.5,200,15.10
+Pepper,Northern,November,0.06,7.0,0.43,5.8,27.0,80,14.60
+Pepper,Northern,December,0.05,6.4,0.38,5.7,26.6,20,13.70
+Maize,Northern,January,0.04,5.8,0.32,5.6,26.5,10,2.10
+Maize,Northern,February,0.05,6.0,0.33,5.7,26.8,15,2.20
+Maize,Northern,March,0.05,6.2,0.34,5.7,27.2,30,2.30
+Maize,Northern,April,0.06,6.4,0.36,5.8,27.5,60,2.50
+Maize,Northern,May,0.06,6.8,0.38,5.8,27.8,120,2.70
+Maize,Northern,June,0.07,7.2,0.41,5.9,28.0,200,2.90
+Maize,Northern,July,0.08,7.6,0.44,5.9,28.2,260,3.10
+Maize,Northern,August,0.08,7.8,0.46,5.9,28.0,300,3.20
+Maize,Northern,September,0.08,7.7,0.45,5.9,27.8,280,3.10
+Maize,Northern,October,0.07,7.3,0.42,5.8,27.5,200,2.90
+Maize,Northern,November,0.06,6.7,0.38,5.8,27.0,80,2.60
+Maize,Northern,December,0.05,6.1,0.34,5.7,26.6,20,2.20
+Rice,Northern,January,0.04,5.9,0.33,5.6,26.5,10,2.70
+Rice,Northern,February,0.05,6.1,0.34,5.7,26.8,15,2.80
+Rice,Northern,March,0.05,6.3,0.35,5.7,27.2,30,3.00
+Rice,Northern,April,0.06,6.5,0.37,5.8,27.5,60,3.20
+Rice,Northern,May,0.06,6.9,0.39,5.8,27.8,120,3.40
+Rice,Northern,June,0.07,7.3,0.42,5.9,28.0,200,3.60
+Rice,Northern,July,0.08,7.7,0.45,5.9,28.2,260,3.80
+Rice,Northern,August,0.08,7.9,0.47,5.9,28.0,300,3.90
+Rice,Northern,September,0.08,7.8,0.46,5.9,27.8,280,3.80
+Rice,Northern,October,0.07,7.4,0.43,5.8,27.5,200,3.60
+Rice,Northern,November,0.06,6.8,0.39,5.8,27.0,80,3.30
+Rice,Northern,December,0.05,6.2,0.35,5.7,26.6,20,2.80
+Cassava,Northern,January,0.04,6.0,0.34,5.6,26.5,10,19.00
+Cassava,Northern,February,0.05,6.2,0.35,5.7,26.8,15,19.50
+Cassava,Northern,March,0.05,6.4,0.36,5.7,27.2,30,20.50
+Cassava,Northern,April,0.06,6.6,0.38,5.8,27.5,60,21.00
+Cassava,Northern,May,0.06,7.0,0.40,5.8,27.8,120,22.50
+Cassava,Northern,June,0.07,7.4,0.43,5.9,28.0,200,23.50
+Cassava,Northern,July,0.08,7.8,0.46,5.9,28.2,260,24.00
+Cassava,Northern,August,0.08,8.0,0.48,5.9,28.0,300,24.50
+Cassava,Northern,September,0.08,7.9,0.47,5.9,27.8,280,24.00
+Cassava,Northern,October,0.07,7.5,0.44,5.8,27.5,200,23.50
+Cassava,Northern,November,0.06,6.9,0.40,5.8,27.0,80,22.00
+Cassava,Northern,December,0.05,6.3,0.36,5.7,26.6,20,19.50
+Plantain,Northern,January,0.04,5.9,0.33,5.6,26.5,10,11.00
+Plantain,Northern,February,0.05,6.1,0.34,5.7,26.8,15,11.30
+Plantain,Northern,March,0.05,6.3,0.35,5.7,27.2,30,12.00
+Plantain,Northern,April,0.06,6.5,0.37,5.8,27.5,60,12.30
+Plantain,Northern,May,0.06,6.9,0.39,5.8,27.8,120,13.00
+Plantain,Northern,June,0.07,7.3,0.42,5.9,28.0,200,13.50
+Plantain,Northern,July,0.08,7.7,0.45,5.9,28.2,260,14.00
+Plantain,Northern,August,0.08,7.9,0.47,5.9,28.0,300,14.30
+Plantain,Northern,September,0.08,7.8,0.46,5.9,27.8,280,14.00
+Plantain,Northern,October,0.07,7.4,0.43,5.8,27.5,200,13.50
+Plantain,Northern,November,0.06,6.8,0.39,5.8,27.0,80,12.50
+Plantain,Northern,December,0.05,6.2,0.35,5.7,26.6,20,11.30
+Cocoyam,Greater Accra,January,0.05,5.8,0.33,5.7,26.1,40,4.90
+Cocoyam,Greater Accra,February,0.06,6.1,0.35,5.8,26.3,45,5.00
+Cocoyam,Greater Accra,March,0.07,6.5,0.38,5.9,26.6,70,5.20
+Cocoyam,Greater Accra,April,0.06,6.3,0.37,5.8,26.4,95,5.30
+Cocoyam,Greater Accra,May,0.08,7.1,0.42,6.0,26.9,180,5.60
+Cocoyam,Greater Accra,June,0.07,7.3,0.44,6.0,27.2,250,5.80
+Cocoyam,Greater Accra,July,0.06,6.8,0.40,5.9,26.7,160,5.50
+Cocoyam,Greater Accra,August,0.05,5.7,0.33,5.7,26.0,60,4.80
+Cocoyam,Greater Accra,September,0.06,6.2,0.36,5.8,26.5,100,5.10
+Cocoyam,Greater Accra,October,0.08,7.4,0.45,6.0,27.3,230,5.70
+Cocoyam,Greater Accra,November,0.07,6.7,0.39,5.9,26.8,170,5.40
+Cocoyam,Greater Accra,December,0.05,5.9,0.34,5.7,26.2,95,5.00
+Yam,Greater Accra,January,0.05,5.9,0.34,5.7,26.1,40,5.40
+Yam,Greater Accra,February,0.06,6.2,0.36,5.8,26.3,45,5.50
+Yam,Greater Accra,March,0.07,6.6,0.39,5.9,26.6,70,5.70
+Yam,Greater Accra,April,0.06,6.4,0.38,5.8,26.4,95,5.80
+Yam,Greater Accra,May,0.08,7.2,0.43,6.0,26.9,180,6.10
+Yam,Greater Accra,June,0.07,7.4,0.45,6.0,27.2,250,6.30
+Yam,Greater Accra,July,0.06,6.9,0.41,5.9,26.7,160,6.00
+Yam,Greater Accra,August,0.05,5.8,0.34,5.7,26.0,60,5.30
+Yam,Greater Accra,September,0.06,6.3,0.37,5.8,26.5,100,5.60
+Yam,Greater Accra,October,0.08,7.5,0.46,6.0,27.3,230,6.20
+Yam,Greater Accra,November,0.07,6.8,0.40,5.9,26.8,170,5.90
+Yam,Greater Accra,December,0.05,6.0,0.35,5.7,26.2,95,5.50
+Tomato,Greater Accra,January,0.05,6.1,0.36,5.7,26.1,40,9.10
+Tomato,Greater Accra,February,0.06,6.4,0.38,5.8,26.3,45,9.30
+Tomato,Greater Accra,March,0.07,6.8,0.41,5.9,26.6,70,9.60
+Tomato,Greater Accra,April,0.06,6.6,0.40,5.8,26.4,95,9.80
+Tomato,Greater Accra,May,0.08,7.5,0.45,6.0,26.9,180,10.20
+Tomato,Greater Accra,June,0.07,7.7,0.47,6.0,27.2,250,10.40
+Tomato,Greater Accra,July,0.06,7.1,0.42,5.9,26.7,160,10.00
+Tomato,Greater Accra,August,0.05,5.9,0.35,5.7,26.0,60,9.00
+Tomato,Greater Accra,September,0.06,6.5,0.39,5.8,26.5,100,9.50
+Tomato,Greater Accra,October,0.08,7.8,0.48,6.0,27.3,230,10.30
+Tomato,Greater Accra,November,0.07,7.0,0.42,5.9,26.8,170,9.90
+Tomato,Greater Accra,December,0.05,6.2,0.37,5.7,26.2,95,9.40
+Pepper,Greater Accra,January,0.05,6.2,0.37,5.7,26.1,40,13.60
+Pepper,Greater Accra,February,0.06,6.5,0.39,5.8,26.3,45,13.80
+Pepper,Greater Accra,March,0.07,6.9,0.42,5.9,26.6,70,14.30
+Pepper,Greater Accra,April,0.06,6.7,0.41,5.8,26.4,95,14.50
+Pepper,Greater Accra,May,0.08,7.6,0.46,6.0,26.9,180,15.00
+Pepper,Greater Accra,June,0.07,7.8,0.48,6.0,27.2,250,15.30
+Pepper,Greater Accra,July,0.06,7.2,0.43,5.9,26.7,160,14.70
+Pepper,Greater Accra,August,0.05,6.0,0.36,5.7,26.0,60,13.40
+Pepper,Greater Accra,September,0.06,6.6,0.40,5.8,26.5,100,14.10
+Pepper,Greater Accra,October,0.08,7.9,0.49,6.0,27.3,230,15.10
+Pepper,Greater Accra,November,0.07,7.1,0.43,5.9,26.8,170,14.60
+Pepper,Greater Accra,December,0.05,6.3,0.38,5.7,26.2,95,13.80
+Maize,Greater Accra,January,0.05,5.9,0.33,5.7,26.2,40,2.20
+Maize,Greater Accra,February,0.06,6.2,0.35,5.8,26.4,45,2.30
+Maize,Greater Accra,March,0.07,6.6,0.38,5.9,26.7,70,2.50
+Maize,Greater Accra,April,0.06,6.4,0.37,5.8,26.5,95,2.60
+Maize,Greater Accra,May,0.08,7.2,0.42,6.0,27.0,180,2.80
+Maize,Greater Accra,June,0.07,7.4,0.44,6.0,27.3,250,3.00
+Maize,Greater Accra,July,0.06,6.9,0.40,5.9,26.8,160,2.70
+Maize,Greater Accra,August,0.05,5.8,0.33,5.7,26.1,60,2.10
+Maize,Greater Accra,September,0.06,6.3,0.36,5.8,26.6,100,2.40
+Maize,Greater Accra,October,0.08,7.5,0.45,6.0,27.4,230,2.90
+Maize,Greater Accra,November,0.07,6.8,0.39,5.9,26.9,170,2.70
+Maize,Greater Accra,December,0.05,6.0,0.34,5.7,26.3,95,2.30
+Rice,Greater Accra,January,0.05,6.0,0.34,5.7,26.2,40,2.80
+Rice,Greater Accra,February,0.06,6.3,0.36,5.8,26.4,45,2.90
+Rice,Greater Accra,March,0.07,6.7,0.39,5.9,26.7,70,3.10
+Rice,Greater Accra,April,0.06,6.5,0.38,5.8,26.5,95,3.20
+Rice,Greater Accra,May,0.08,7.4,0.43,6.0,27.0,180,3.50
+Rice,Greater Accra,June,0.07,7.6,0.45,6.0,27.3,250,3.70
+Rice,Greater Accra,July,0.06,7.0,0.41,5.9,26.8,160,3.30
+Rice,Greater Accra,August,0.05,5.9,0.34,5.7,26.1,60,2.70
+Rice,Greater Accra,September,0.06,6.4,0.37,5.8,26.6,100,3.00
+Rice,Greater Accra,October,0.08,7.7,0.46,6.0,27.4,230,3.60
+Rice,Greater Accra,November,0.07,6.9,0.40,5.9,26.9,170,3.30
+Rice,Greater Accra,December,0.05,6.1,0.35,5.7,26.3,95,2.90
+Cassava,Greater Accra,January,0.05,6.2,0.35,5.7,26.2,40,20.50
+Cassava,Greater Accra,February,0.06,6.5,0.37,5.8,26.4,45,21.00
+Cassava,Greater Accra,March,0.07,6.9,0.40,5.9,26.7,70,22.00
+Cassava,Greater Accra,April,0.06,6.7,0.39,5.8,26.5,95,22.50
+Cassava,Greater Accra,May,0.08,7.6,0.44,6.0,27.0,180,24.00
+Cassava,Greater Accra,June,0.07,7.8,0.46,6.0,27.3,250,24.50
+Cassava,Greater Accra,July,0.06,7.2,0.42,5.9,26.8,160,23.00
+Cassava,Greater Accra,August,0.05,6.0,0.34,5.7,26.1,60,20.00
+Cassava,Greater Accra,September,0.06,6.6,0.38,5.8,26.6,100,21.50
+Cassava,Greater Accra,October,0.08,7.9,0.47,6.0,27.4,230,24.30
+Cassava,Greater Accra,November,0.07,7.1,0.41,5.9,26.9,170,23.00
+Cassava,Greater Accra,December,0.05,6.3,0.36,5.7,26.3,95,21.00
+Plantain,Greater Accra,January,0.05,6.1,0.34,5.7,26.2,40,12.00
+Plantain,Greater Accra,February,0.06,6.4,0.36,5.8,26.4,45,12.30
+Plantain,Greater Accra,March,0.07,6.8,0.39,5.9,26.7,70,13.00
+Plantain,Greater Accra,April,0.06,6.6,0.38,5.8,26.5,95,13.30
+Plantain,Greater Accra,May,0.08,7.5,0.43,6.0,27.0,180,14.00
+Plantain,Greater Accra,June,0.07,7.7,0.45,6.0,27.3,250,14.50
+Plantain,Greater Accra,July,0.06,7.1,0.41,5.9,26.8,160,13.50
+Plantain,Greater Accra,August,0.05,5.9,0.34,5.7,26.1,60,11.80
+Plantain,Greater Accra,September,0.06,6.5,0.37,5.8,26.6,100,12.80
+Plantain,Greater Accra,October,0.08,7.8,0.46,6.0,27.4,230,14.30
+Plantain,Greater Accra,November,0.07,7.0,0.40,5.9,26.9,170,13.50
+Plantain,Greater Accra,December,0.05,6.2,0.35,5.7,26.3,95,12.30
+Cocoyam,Eastern,January,0.06,6.1,0.34,5.9,25.9,50,5.20
+Cocoyam,Eastern,February,0.07,6.4,0.36,6.0,26.1,55,5.30
+Cocoyam,Eastern,March,0.08,6.8,0.39,6.1,26.4,80,5.50
+Cocoyam,Eastern,April,0.07,6.6,0.38,6.0,26.2,105,5.60
+Cocoyam,Eastern,May,0.09,7.5,0.43,6.2,26.7,195,5.90
+Cocoyam,Eastern,June,0.08,7.7,0.45,6.2,27.0,270,6.10
+Cocoyam,Eastern,July,0.07,7.2,0.41,6.1,26.5,175,5.80
+Cocoyam,Eastern,August,0.06,6.0,0.34,5.9,25.8,70,5.10
+Cocoyam,Eastern,September,0.07,6.5,0.37,6.0,26.3,115,5.40
+Cocoyam,Eastern,October,0.09,7.8,0.46,6.2,27.1,250,6.00
+Cocoyam,Eastern,November,0.08,7.1,0.40,6.1,26.6,185,5.70
+Cocoyam,Eastern,December,0.06,6.2,0.35,5.9,26.0,105,5.30
+Yam,Eastern,January,0.06,6.2,0.35,5.9,25.9,50,5.70
+Yam,Eastern,February,0.07,6.5,0.37,6.0,26.1,55,5.80
+Yam,Eastern,March,0.08,6.9,0.40,6.1,26.4,80,6.00
+Yam,Eastern,April,0.07,6.7,0.39,6.0,26.2,105,6.10
+Yam,Eastern,May,0.09,7.6,0.44,6.2,26.7,195,6.40
+Yam,Eastern,June,0.08,7.8,0.46,6.2,27.0,270,6.60
+Yam,Eastern,July,0.07,7.3,0.42,6.1,26.5,175,6.30
+Yam,Eastern,August,0.06,6.1,0.34,5.9,25.8,70,5.60
+Yam,Eastern,September,0.07,6.6,0.38,6.0,26.3,115,5.90
+Yam,Eastern,October,0.09,7.9,0.47,6.2,27.1,250,6.50
+Yam,Eastern,November,0.08,7.2,0.41,6.1,26.6,185,6.20
+Yam,Eastern,December,0.06,6.3,0.36,5.9,26.0,105,5.80
+Tomato,Eastern,January,0.06,6.4,0.37,5.9,25.9,50,9.30
+Tomato,Eastern,February,0.07,6.7,0.39,6.0,26.1,55,9.50
+Tomato,Eastern,March,0.08,7.1,0.42,6.1,26.4,80,9.80
+Tomato,Eastern,April,0.07,6.9,0.41,6.0,26.2,105,10.00
+Tomato,Eastern,May,0.09,7.8,0.46,6.2,26.7,195,10.40
+Tomato,Eastern,June,0.08,8.0,0.48,6.2,27.0,270,10.60
+Tomato,Eastern,July,0.07,7.4,0.43,6.1,26.5,175,10.20
+Tomato,Eastern,August,0.06,6.2,0.35,5.9,25.8,70,9.20
+Tomato,Eastern,September,0.07,6.8,0.40,6.0,26.3,115,9.70
+Tomato,Eastern,October,0.09,8.1,0.49,6.2,27.1,250,10.50
+Tomato,Eastern,November,0.08,7.3,0.43,6.1,26.6,185,10.10
+Tomato,Eastern,December,0.06,6.5,0.38,5.9,26.0,105,9.60
+Pepper,Eastern,January,0.06,6.5,0.38,5.9,25.9,50,13.80
+Pepper,Eastern,February,0.07,6.8,0.40,6.0,26.1,55,14.00
+Pepper,Eastern,March,0.08,7.2,0.43,6.1,26.4,80,14.50
+Pepper,Eastern,April,0.07,7.0,0.42,6.0,26.2,105,14.70
+Pepper,Eastern,May,0.09,7.9,0.47,6.2,26.7,195,15.20
+Pepper,Eastern,June,0.08,8.1,0.49,6.2,27.0,270,15.50
+Pepper,Eastern,July,0.07,7.5,0.44,6.1,26.5,175,14.90
+Pepper,Eastern,August,0.06,6.3,0.36,5.9,25.8,70,13.60
+Pepper,Eastern,September,0.07,6.9,0.41,6.0,26.3,115,14.30
+Pepper,Eastern,October,0.09,8.2,0.50,6.2,27.1,250,15.30
+Pepper,Eastern,November,0.08,7.4,0.44,6.1,26.6,185,14.80
+Pepper,Eastern,December,0.06,6.6,0.39,5.9,26.0,105,14.00
+Maize,Eastern,January,0.06,6.2,0.34,5.9,26.0,50,2.40
+Maize,Eastern,February,0.07,6.5,0.36,6.0,26.2,55,2.50
+Maize,Eastern,March,0.08,6.9,0.39,6.1,26.5,80,2.70
+Maize,Eastern,April,0.07,6.7,0.38,6.0,26.3,105,2.80
+Maize,Eastern,May,0.09,7.5,0.43,6.2,26.8,195,3.00
+Maize,Eastern,June,0.08,7.7,0.45,6.2,27.1,270,3.20
+Maize,Eastern,July,0.07,7.2,0.41,6.1,26.6,175,2.90
+Maize,Eastern,August,0.06,6.1,0.34,5.9,25.9,70,2.30
+Maize,Eastern,September,0.07,6.6,0.37,6.0,26.4,115,2.60
+Maize,Eastern,October,0.09,7.8,0.46,6.2,27.2,250,3.10
+Maize,Eastern,November,0.08,7.1,0.40,6.1,26.7,185,2.90
+Maize,Eastern,December,0.06,6.3,0.35,5.9,26.1,105,2.50
+Rice,Eastern,January,0.06,6.3,0.35,5.9,26.0,50,3.00
+Rice,Eastern,February,0.07,6.6,0.37,6.0,26.2,55,3.10
+Rice,Eastern,March,0.08,7.0,0.40,6.1,26.5,80,3.30
+Rice,Eastern,April,0.07,6.8,0.39,6.0,26.3,105,3.40
+Rice,Eastern,May,0.09,7.7,0.44,6.2,26.8,195,3.70
+Rice,Eastern,June,0.08,7.9,0.46,6.2,27.1,270,3.90
+Rice,Eastern,July,0.07,7.3,0.42,6.1,26.6,175,3.50
+Rice,Eastern,August,0.06,6.2,0.34,5.9,25.9,70,2.90
+Rice,Eastern,September,0.07,6.7,0.38,6.0,26.4,115,3.20
+Rice,Eastern,October,0.09,8.0,0.47,6.2,27.2,250,3.80
+Rice,Eastern,November,0.08,7.2,0.41,6.1,26.7,185,3.50
+Rice,Eastern,December,0.06,6.4,0.36,5.9,26.1,105,3.10
+Cassava,Eastern,January,0.06,6.5,0.37,5.9,26.0,50,22.50
+Cassava,Eastern,February,0.07,6.8,0.39,6.0,26.2,55,23.00
+Cassava,Eastern,March,0.08,7.2,0.42,6.1,26.5,80,24.00
+Cassava,Eastern,April,0.07,7.0,0.41,6.0,26.3,105,24.50
+Cassava,Eastern,May,0.09,7.9,0.46,6.2,26.8,195,26.00
+Cassava,Eastern,June,0.08,8.1,0.48,6.2,27.1,270,26.50
+Cassava,Eastern,July,0.07,7.5,0.44,6.1,26.6,175,25.00
+Cassava,Eastern,August,0.06,6.3,0.35,5.9,25.9,70,22.00
+Cassava,Eastern,September,0.07,6.9,0.40,6.0,26.4,115,23.50
+Cassava,Eastern,October,0.09,8.2,0.49,6.2,27.2,250,26.30
+Cassava,Eastern,November,0.08,7.4,0.43,6.1,26.7,185,25.00
+Cassava,Eastern,December,0.06,6.6,0.38,5.9,26.1,105,23.00
+Plantain,Eastern,January,0.06,6.4,0.36,5.9,26.0,50,13.30
+Plantain,Eastern,February,0.07,6.7,0.38,6.0,26.2,55,13.60
+Plantain,Eastern,March,0.08,7.1,0.41,6.1,26.5,80,14.30
+Plantain,Eastern,April,0.07,6.9,0.40,6.0,26.3,105,14.60
+Plantain,Eastern,May,0.09,7.8,0.45,6.2,26.8,195,15.30
+Plantain,Eastern,June,0.08,8.0,0.47,6.2,27.1,270,15.80
+Plantain,Eastern,July,0.07,7.4,0.43,6.1,26.6,175,14.80
+Plantain,Eastern,August,0.06,6.2,0.35,5.9,25.9,70,13.10
+Plantain,Eastern,September,0.07,6.8,0.39,6.0,26.4,115,14.10
+Plantain,Eastern,October,0.09,8.1,0.48,6.2,27.2,250,15.60
+Plantain,Eastern,November,0.08,7.3,0.42,6.1,26.7,185,14.80
+Plantain,Eastern,December,0.06,6.5,0.37,5.9,26.1,105,13.60
+Cocoyam,Central,January,0.06,6.1,0.34,5.8,25.9,50,5.20
+Cocoyam,Central,February,0.07,6.4,0.36,5.9,26.1,55,5.30
+Cocoyam,Central,March,0.08,6.8,0.39,6.0,26.4,80,5.50
+Cocoyam,Central,April,0.07,6.6,0.38,5.9,26.2,105,5.60
+Cocoyam,Central,May,0.09,7.5,0.43,6.1,26.7,195,5.90
+Cocoyam,Central,June,0.08,7.7,0.45,6.1,27.0,270,6.10
+Cocoyam,Central,July,0.07,7.2,0.41,6.0,26.5,175,5.80
+Cocoyam,Central,August,0.06,6.0,0.34,5.8,25.8,70,5.10
+Cocoyam,Central,September,0.07,6.5,0.37,5.9,26.3,115,5.40
+Cocoyam,Central,October,0.09,7.8,0.46,6.1,27.1,250,6.00
+Cocoyam,Central,November,0.08,7.1,0.40,6.0,26.6,185,5.70
+Cocoyam,Central,December,0.06,6.2,0.35,5.8,26.0,105,5.30
+Yam,Central,January,0.06,6.2,0.35,5.8,25.9,50,5.70
+Yam,Central,February,0.07,6.5,0.37,5.9,26.1,55,5.80
+Yam,Central,March,0.08,6.9,0.40,6.0,26.4,80,6.00
+Yam,Central,April,0.07,6.7,0.39,5.9,26.2,105,6.10
+Yam,Central,May,0.09,7.6,0.44,6.1,26.7,195,6.40
+Yam,Central,June,0.08,7.8,0.46,6.1,27.0,270,6.60
+Yam,Central,July,0.07,7.3,0.42,6.0,26.5,175,6.30
+Yam,Central,August,0.06,6.1,0.34,5.8,25.8,70,5.60
+Yam,Central,September,0.07,6.6,0.38,5.9,26.3,115,5.90
+Yam,Central,October,0.09,7.9,0.47,6.1,27.1,250,6.50
+Yam,Central,November,0.08,7.2,0.41,6.0,26.6,185,6.20
+Yam,Central,December,0.06,6.3,0.36,5.8,26.0,105,5.80
+Tomato,Central,January,0.06,6.4,0.37,5.8,25.9,50,9.30
+Tomato,Central,February,0.07,6.7,0.39,5.9,26.1,55,9.50
+Tomato,Central,March,0.08,7.1,0.42,6.0,26.4,80,9.80
+Tomato,Central,April,0.07,6.9,0.41,5.9,26.2,105,10.00
+Tomato,Central,May,0.09,7.8,0.46,6.1,26.7,195,10.40
+Tomato,Central,June,0.08,8.0,0.48,6.1,27.0,270,10.60
+Tomato,Central,July,0.07,7.4,0.43,6.0,26.5,175,10.20
+Tomato,Central,August,0.06,6.2,0.35,5.8,25.8,70,9.20
+Tomato,Central,September,0.07,6.8,0.40,5.9,26.3,115,9.70
+Tomato,Central,October,0.09,8.1,0.49,6.1,27.1,250,10.50
+Tomato,Central,November,0.08,7.3,0.43,6.0,26.6,185,10.10
+Tomato,Central,December,0.06,6.5,0.38,5.8,26.0,105,9.60
+Pepper,Central,January,0.06,6.5,0.38,5.8,25.9,50,13.80
+Pepper,Central,February,0.07,6.8,0.40,5.9,26.1,55,14.00
+Pepper,Central,March,0.08,7.2,0.43,6.0,26.4,80,14.50
+Pepper,Central,April,0.07,7.0,0.42,5.9,26.2,105,14.70
+Pepper,Central,May,0.09,7.9,0.47,6.1,26.7,195,15.20
+Pepper,Central,June,0.08,8.1,0.49,6.1,27.0,270,15.50
+Pepper,Central,July,0.07,7.5,0.44,6.0,26.5,175,14.90
+Pepper,Central,August,0.06,6.3,0.36,5.8,25.8,70,13.60
+Pepper,Central,September,0.07,6.9,0.41,5.9,26.3,115,14.30
+Pepper,Central,October,0.09,8.2,0.50,6.1,27.1,250,15.30
+Pepper,Central,November,0.08,7.4,0.44,6.0,26.6,185,14.80
+Pepper,Central,December,0.06,6.6,0.39,5.8,26.0,105,14.00
+Maize,Central,January,0.06,6.2,0.34,5.8,26.0,50,2.30
+Maize,Central,February,0.07,6.5,0.36,5.9,26.2,55,2.40
+Maize,Central,March,0.08,6.9,0.39,6.0,26.5,80,2.60
+Maize,Central,April,0.07,6.7,0.38,5.9,26.3,105,2.70
+Maize,Central,May,0.09,7.5,0.43,6.1,26.8,195,2.90
+Maize,Central,June,0.08,7.7,0.45,6.1,27.1,270,3.10
+Maize,Central,July,0.07,7.2,0.41,6.0,26.6,175,2.80
+Maize,Central,August,0.06,6.1,0.34,5.8,25.9,70,2.20
+Maize,Central,September,0.07,6.6,0.37,5.9,26.4,115,2.50
+Maize,Central,October,0.09,7.8,0.46,6.1,27.2,250,3.00
+Maize,Central,November,0.08,7.1,0.40,6.0,26.7,185,2.80
+Maize,Central,December,0.06,6.3,0.35,5.8,26.1,105,2.40
+Rice,Central,January,0.06,6.3,0.35,5.8,26.0,50,2.90
+Rice,Central,February,0.07,6.6,0.37,5.9,26.2,55,3.00
+Rice,Central,March,0.08,7.0,0.40,6.0,26.5,80,3.20
+Rice,Central,April,0.07,6.8,0.39,5.9,26.3,105,3.30
+Rice,Central,May,0.09,7.7,0.44,6.1,26.8,195,3.60
+Rice,Central,June,0.08,7.9,0.46,6.1,27.1,270,3.80
+Rice,Central,July,0.07,7.3,0.42,6.0,26.6,175,3.40
+Rice,Central,August,0.06,6.2,0.34,5.8,25.9,70,2.80
+Rice,Central,September,0.07,6.7,0.38,5.9,26.4,115,3.10
+Rice,Central,October,0.09,8.0,0.47,6.1,27.2,250,3.70
+Rice,Central,November,0.08,7.2,0.41,6.0,26.7,185,3.40
+Rice,Central,December,0.06,6.4,0.36,5.8,26.1,105,3.00
+Cassava,Central,January,0.06,6.5,0.37,5.8,26.0,50,22.00
+Cassava,Central,February,0.07,6.8,0.39,5.9,26.2,55,22.50
+Cassava,Central,March,0.08,7.2,0.42,6.0,26.5,80,23.50
+Cassava,Central,April,0.07,7.0,0.41,5.9,26.3,105,24.00
+Cassava,Central,May,0.09,7.9,0.46,6.1,26.8,195,25.50
+Cassava,Central,June,0.08,8.1,0.48,6.1,27.1,270,26.00
+Cassava,Central,July,0.07,7.5,0.44,6.0,26.6,175,24.50
+Cassava,Central,August,0.06,6.3,0.35,5.8,25.9,70,21.50
+Cassava,Central,September,0.07,6.9,0.40,5.9,26.4,115,23.00
+Cassava,Central,October,0.09,8.2,0.49,6.1,27.2,250,25.80
+Cassava,Central,November,0.08,7.4,0.43,6.0,26.7,185,24.50
+Cassava,Central,December,0.06,6.6,0.38,5.8,26.1,105,22.50
+Plantain,Central,January,0.06,6.4,0.36,5.8,26.0,50,13.00
+Plantain,Central,February,0.07,6.7,0.38,5.9,26.2,55,13.30
+Plantain,Central,March,0.08,7.1,0.41,6.0,26.5,80,14.00
+Plantain,Central,April,0.07,6.9,0.40,5.9,26.3,105,14.30
+Plantain,Central,May,0.09,7.8,0.45,6.1,26.8,195,15.00
+Plantain,Central,June,0.08,8.0,0.47,6.1,27.1,270,15.50
+Plantain,Central,July,0.07,7.4,0.43,6.0,26.6,175,14.50
+Plantain,Central,August,0.06,6.2,0.35,5.8,25.9,70,12.80
+Plantain,Central,September,0.07,6.8,0.39,5.9,26.4,115,13.80
+Plantain,Central,October,0.09,8.1,0.48,6.1,27.2,250,15.30
+Plantain,Central,November,0.08,7.3,0.42,6.0,26.7,185,14.50
+Plantain,Central,December,0.06,6.5,0.37,5.8,26.1,105,13.30
+Cocoyam,Brong-Ahafo,January,0.06,6.2,0.34,5.9,25.9,50,5.10
+Cocoyam,Brong-Ahafo,February,0.07,6.5,0.36,6.0,26.1,55,5.20
+Cocoyam,Brong-Ahafo,March,0.08,6.9,0.39,6.1,26.5,80,5.40
+Cocoyam,Brong-Ahafo,April,0.07,6.7,0.38,6.0,26.3,100,5.50
+Cocoyam,Brong-Ahafo,May,0.09,7.5,0.43,6.2,26.8,190,5.80
+Cocoyam,Brong-Ahafo,June,0.08,7.7,0.45,6.2,27.1,260,6.00
+Cocoyam,Brong-Ahafo,July,0.07,7.2,0.41,6.1,26.6,170,5.70
+Cocoyam,Brong-Ahafo,August,0.06,6.1,0.34,5.9,25.8,70,5.00
+Cocoyam,Brong-Ahafo,September,0.07,6.6,0.37,6.0,26.4,110,5.30
+Cocoyam,Brong-Ahafo,October,0.09,7.8,0.46,6.2,27.2,240,5.90
+Cocoyam,Brong-Ahafo,November,0.08,7.1,0.40,6.1,26.7,180,5.60
+Cocoyam,Brong-Ahafo,December,0.06,6.3,0.35,5.9,26.0,100,5.20
+Yam,Brong-Ahafo,January,0.06,6.3,0.35,5.9,25.9,50,5.60
+Yam,Brong-Ahafo,February,0.07,6.6,0.37,6.0,26.1,55,5.70
+Yam,Brong-Ahafo,March,0.08,7.0,0.40,6.1,26.5,80,5.90
+Yam,Brong-Ahafo,April,0.07,6.8,0.39,6.0,26.3,100,6.00
+Yam,Brong-Ahafo,May,0.09,7.7,0.44,6.2,26.8,190,6.30
+Yam,Brong-Ahafo,June,0.08,7.9,0.46,6.2,27.1,260,6.50
+Yam,Brong-Ahafo,July,0.07,7.3,0.42,6.1,26.6,170,6.20
+Yam,Brong-Ahafo,August,0.06,6.2,0.34,5.9,25.8,70,5.50
+Yam,Brong-Ahafo,September,0.07,6.7,0.38,6.0,26.4,110,5.80
+Yam,Brong-Ahafo,October,0.09,8.0,0.47,6.2,27.2,240,6.40
+Yam,Brong-Ahafo,November,0.08,7.2,0.41,6.1,26.7,180,6.10
+Yam,Brong-Ahafo,December,0.06,6.4,0.36,5.9,26.0,100,5.70
+Tomato,Brong-Ahafo,January,0.06,6.5,0.37,5.9,25.9,50,9.20
+Tomato,Brong-Ahafo,February,0.07,6.8,0.39,6.0,26.1,55,9.40
+Tomato,Brong-Ahafo,March,0.08,7.2,0.42,6.1,26.5,80,9.70
+Tomato,Brong-Ahafo,April,0.07,7.0,0.41,6.0,26.3,100,9.90
+Tomato,Brong-Ahafo,May,0.09,7.9,0.46,6.2,26.8,190,10.30
+Tomato,Brong-Ahafo,June,0.08,8.1,0.48,6.2,27.1,260,10.50
+Tomato,Brong-Ahafo,July,0.07,7.5,0.43,6.1,26.6,170,10.10
+Tomato,Brong-Ahafo,August,0.06,6.3,0.35,5.9,25.8,70,9.10
+Tomato,Brong-Ahafo,September,0.07,6.9,0.40,6.0,26.4,110,9.60
+Tomato,Brong-Ahafo,October,0.09,8.2,0.49,6.2,27.2,240,10.40
+Tomato,Brong-Ahafo,November,0.08,7.4,0.43,6.1,26.7,180,10.00
+Tomato,Brong-Ahafo,December,0.06,6.6,0.38,5.9,26.0,100,9.50
+Pepper,Brong-Ahafo,January,0.06,6.6,0.38,5.9,25.9,50,13.70
+Pepper,Brong-Ahafo,February,0.07,6.9,0.40,6.0,26.1,55,13.90
+Pepper,Brong-Ahafo,March,0.08,7.3,0.43,6.1,26.5,80,14.40
+Pepper,Brong-Ahafo,April,0.07,7.1,0.42,6.0,26.3,100,14.60
+Pepper,Brong-Ahafo,May,0.09,8.0,0.47,6.2,26.8,190,15.10
+Pepper,Brong-Ahafo,June,0.08,8.2,0.49,6.2,27.1,260,15.40
+Pepper,Brong-Ahafo,July,0.07,7.6,0.44,6.1,26.6,170,14.80
+Pepper,Brong-Ahafo,August,0.06,6.4,0.36,5.9,25.8,70,13.50
+Pepper,Brong-Ahafo,September,0.07,7.0,0.41,6.0,26.4,110,14.20
+Pepper,Brong-Ahafo,October,0.09,8.3,0.50,6.2,27.2,240,15.20
+Pepper,Brong-Ahafo,November,0.08,7.5,0.44,6.1,26.7,180,14.70
+Pepper,Brong-Ahafo,December,0.06,6.7,0.39,5.9,26.0,100,13.90
+Maize,Brong-Ahafo,January,0.06,6.3,0.34,5.9,26.0,50,2.40
+Maize,Brong-Ahafo,February,0.07,6.6,0.36,6.0,26.2,55,2.50
+Maize,Brong-Ahafo,March,0.08,7.0,0.39,6.1,26.6,80,2.70
+Maize,Brong-Ahafo,April,0.07,6.8,0.38,6.0,26.4,100,2.80
+Maize,Brong-Ahafo,May,0.09,7.6,0.43,6.2,26.9,190,3.00
+Maize,Brong-Ahafo,June,0.08,7.8,0.45,6.2,27.2,260,3.20
+Maize,Brong-Ahafo,July,0.07,7.3,0.41,6.1,26.7,170,2.90
+Maize,Brong-Ahafo,August,0.06,6.2,0.34,5.9,25.9,70,2.30
+Maize,Brong-Ahafo,September,0.07,6.7,0.37,6.0,26.5,110,2.60
+Maize,Brong-Ahafo,October,0.09,7.9,0.46,6.2,27.3,240,3.10
+Maize,Brong-Ahafo,November,0.08,7.2,0.40,6.1,26.8,180,2.90
+Maize,Brong-Ahafo,December,0.06,6.4,0.35,5.9,26.1,100,2.50
+Rice,Brong-Ahafo,January,0.06,6.4,0.35,5.9,26.0,50,3.00
+Rice,Brong-Ahafo,February,0.07,6.7,0.37,6.0,26.2,55,3.10
+Rice,Brong-Ahafo,March,0.08,7.1,0.40,6.1,26.6,80,3.30
+Rice,Brong-Ahafo,April,0.07,6.9,0.39,6.0,26.4,100,3.40
+Rice,Brong-Ahafo,May,0.09,7.8,0.44,6.2,26.9,190,3.70
+Rice,Brong-Ahafo,June,0.08,8.0,0.46,6.2,27.2,260,3.90
+Rice,Brong-Ahafo,July,0.07,7.4,0.42,6.1,26.7,170,3.50
+Rice,Brong-Ahafo,August,0.06,6.3,0.34,5.9,25.9,70,2.90
+Rice,Brong-Ahafo,September,0.07,6.8,0.38,6.0,26.5,110,3.20
+Rice,Brong-Ahafo,October,0.09,8.1,0.47,6.2,27.3,240,3.80
+Rice,Brong-Ahafo,November,0.08,7.3,0.41,6.1,26.8,180,3.50
+Rice,Brong-Ahafo,December,0.06,6.5,0.36,5.9,26.1,100,3.10
+Cassava,Brong-Ahafo,January,0.06,6.6,0.36,5.9,26.0,50,21.00
+Cassava,Brong-Ahafo,February,0.07,6.9,0.38,6.0,26.2,55,21.50
+Cassava,Brong-Ahafo,March,0.08,7.3,0.41,6.1,26.6,80,22.50
+Cassava,Brong-Ahafo,April,0.07,7.1,0.40,6.0,26.4,100,23.00
+Cassava,Brong-Ahafo,May,0.09,8.0,0.45,6.2,26.9,190,24.50
+Cassava,Brong-Ahafo,June,0.08,8.2,0.47,6.2,27.2,260,25.00
+Cassava,Brong-Ahafo,July,0.07,7.6,0.43,6.1,26.7,170,23.50
+Cassava,Brong-Ahafo,August,0.06,6.4,0.35,5.9,25.9,70,20.50
+Cassava,Brong-Ahafo,September,0.07,7.0,0.39,6.0,26.5,110,22.00
+Cassava,Brong-Ahafo,October,0.09,8.3,0.48,6.2,27.3,240,24.80
+Cassava,Brong-Ahafo,November,0.08,7.5,0.42,6.1,26.8,180,23.50
+Cassava,Brong-Ahafo,December,0.06,6.7,0.37,5.9,26.1,100,21.50
+Plantain,Brong-Ahafo,January,0.06,6.5,0.36,5.9,26.0,50,12.50
+Plantain,Brong-Ahafo,February,0.07,6.8,0.38,6.0,26.2,55,12.80
+Plantain,Brong-Ahafo,March,0.08,7.2,0.41,6.1,26.6,80,13.50
+Plantain,Brong-Ahafo,April,0.07,7.0,0.40,6.0,26.4,100,13.80
+Plantain,Brong-Ahafo,May,0.09,7.9,0.45,6.2,26.9,190,14.50
+Plantain,Brong-Ahafo,June,0.08,8.1,0.47,6.2,27.2,260,15.00
+Plantain,Brong-Ahafo,July,0.07,7.5,0.43,6.1,26.7,170,14.00
+Plantain,Brong-Ahafo,August,0.06,6.3,0.35,5.9,25.9,70,12.00
+Plantain,Brong-Ahafo,September,0.07,6.9,0.39,6.0,26.5,110,13.20
+Plantain,Brong-Ahafo,October,0.09,8.2,0.48,6.2,27.3,240,14.80
+Plantain,Brong-Ahafo,November,0.08,7.4,0.42,6.1,26.8,180,13.80
+Plantain,Brong-Ahafo,December,0.06,6.6,0.37,5.9,26.1,100,12.70
+Cocoyam,Ashanti,January,0.06,6.3,0.35,6.0,25.8,50,5.20
+Cocoyam,Ashanti,February,0.07,6.6,0.37,6.1,26.0,60,5.30
+Cocoyam,Ashanti,March,0.08,7.0,0.40,6.2,26.4,85,5.50
+Cocoyam,Ashanti,April,0.07,6.8,0.39,6.1,26.2,110,5.60
+Cocoyam,Ashanti,May,0.09,7.6,0.44,6.3,26.7,200,5.90
+Cocoyam,Ashanti,June,0.08,7.8,0.46,6.3,27.0,280,6.10
+Cocoyam,Ashanti,July,0.07,7.3,0.42,6.2,26.5,180,5.80
+Cocoyam,Ashanti,August,0.06,6.2,0.34,6.0,25.7,75,5.10
+Cocoyam,Ashanti,September,0.07,6.7,0.38,6.1,26.3,120,5.40
+Cocoyam,Ashanti,October,0.09,7.9,0.47,6.3,27.1,260,6.00
+Cocoyam,Ashanti,November,0.08,7.2,0.41,6.2,26.6,190,5.70
+Cocoyam,Ashanti,December,0.06,6.4,0.36,6.0,25.9,115,5.30
+Yam,Ashanti,January,0.06,6.4,0.36,6.0,25.8,50,5.70
+Yam,Ashanti,February,0.07,6.7,0.38,6.1,26.0,60,5.80
+Yam,Ashanti,March,0.08,7.1,0.41,6.2,26.4,85,6.00
+Yam,Ashanti,April,0.07,6.9,0.40,6.1,26.2,110,6.10
+Yam,Ashanti,May,0.09,7.8,0.45,6.3,26.7,200,6.40
+Yam,Ashanti,June,0.08,8.0,0.47,6.3,27.0,280,6.60
+Yam,Ashanti,July,0.07,7.4,0.43,6.2,26.5,180,6.30
+Yam,Ashanti,August,0.06,6.3,0.35,6.0,25.7,75,5.60
+Yam,Ashanti,September,0.07,6.8,0.39,6.1,26.3,120,5.90
+Yam,Ashanti,October,0.09,8.1,0.48,6.3,27.1,260,6.50
+Yam,Ashanti,November,0.08,7.3,0.42,6.2,26.6,190,6.20
+Yam,Ashanti,December,0.06,6.5,0.37,6.0,25.9,115,5.80
+Tomato,Ashanti,January,0.06,6.6,0.38,6.0,25.8,50,9.30
+Tomato,Ashanti,February,0.07,6.9,0.40,6.1,26.0,60,9.50
+Tomato,Ashanti,March,0.08,7.3,0.43,6.2,26.4,85,9.80
+Tomato,Ashanti,April,0.07,7.1,0.42,6.1,26.2,110,10.00
+Tomato,Ashanti,May,0.09,8.0,0.47,6.3,26.7,200,10.40
+Tomato,Ashanti,June,0.08,8.2,0.49,6.3,27.0,280,10.60
+Tomato,Ashanti,July,0.07,7.6,0.44,6.2,26.5,180,10.20
+Tomato,Ashanti,August,0.06,6.4,0.36,6.0,25.7,75,9.20
+Tomato,Ashanti,September,0.07,7.0,0.41,6.1,26.3,120,9.70
+Tomato,Ashanti,October,0.09,8.3,0.50,6.3,27.1,260,10.50
+Tomato,Ashanti,November,0.08,7.5,0.44,6.2,26.6,190,10.10
+Tomato,Ashanti,December,0.06,6.7,0.39,6.0,25.9,115,9.60
+Pepper,Ashanti,January,0.06,6.7,0.39,6.0,25.8,50,13.80
+Pepper,Ashanti,February,0.07,7.0,0.41,6.1,26.0,60,14.00
+Pepper,Ashanti,March,0.08,7.4,0.44,6.2,26.4,85,14.50
+Pepper,Ashanti,April,0.07,7.2,0.43,6.1,26.2,110,14.70
+Pepper,Ashanti,May,0.09,8.1,0.48,6.3,26.7,200,15.20
+Pepper,Ashanti,June,0.08,8.3,0.50,6.3,27.0,280,15.50
+Pepper,Ashanti,July,0.07,7.7,0.45,6.2,26.5,180,14.90
+Pepper,Ashanti,August,0.06,6.5,0.37,6.0,25.7,75,13.60
+Pepper,Ashanti,September,0.07,7.1,0.42,6.1,26.3,120,14.30
+Pepper,Ashanti,October,0.09,8.4,0.51,6.3,27.1,260,15.30
+Pepper,Ashanti,November,0.08,7.6,0.45,6.2,26.6,190,14.80
+Pepper,Ashanti,December,0.06,6.8,0.40,6.0,25.9,115,14.00
+Maize,Ashanti,January,0.06,6.4,0.35,6.0,25.8,50,2.30
+Maize,Ashanti,February,0.07,6.7,0.37,6.1,26.0,60,2.40
+Maize,Ashanti,March,0.08,7.1,0.40,6.2,26.4,85,2.60
+Maize,Ashanti,April,0.07,6.9,0.39,6.1,26.2,110,2.70
+Maize,Ashanti,May,0.09,7.7,0.44,6.3,26.7,200,2.90
+Maize,Ashanti,June,0.08,7.9,0.46,6.3,27.0,280,3.10
+Maize,Ashanti,July,0.07,7.4,0.42,6.2,26.5,180,2.80
+Maize,Ashanti,August,0.06,6.3,0.34,6.0,25.7,75,2.20
+Maize,Ashanti,September,0.07,6.8,0.38,6.1,26.3,120,2.50
+Maize,Ashanti,October,0.09,8.0,0.47,6.3,27.1,260,3.00
+Maize,Ashanti,November,0.08,7.3,0.41,6.2,26.6,190,2.80
+Maize,Ashanti,December,0.06,6.5,0.36,6.0,25.9,115,2.40
+Rice,Ashanti,January,0.06,6.5,0.36,6.0,25.8,50,2.90
+Rice,Ashanti,February,0.07,6.8,0.38,6.1,26.0,60,3.00
+Rice,Ashanti,March,0.08,7.2,0.41,6.2,26.4,85,3.20
+Rice,Ashanti,April,0.07,7.0,0.40,6.1,26.2,110,3.30
+Rice,Ashanti,May,0.09,7.9,0.45,6.3,26.7,200,3.60
+Rice,Ashanti,June,0.08,8.1,0.47,6.3,27.0,280,3.80
+Rice,Ashanti,July,0.07,7.5,0.43,6.2,26.5,180,3.40
+Rice,Ashanti,August,0.06,6.4,0.35,6.0,25.7,75,2.80
+Rice,Ashanti,September,0.07,6.9,0.39,6.1,26.3,120,3.10
+Rice,Ashanti,October,0.09,8.2,0.48,6.3,27.1,260,3.70
+Rice,Ashanti,November,0.08,7.4,0.42,6.2,26.6,190,3.30
+Rice,Ashanti,December,0.06,6.6,0.37,6.0,25.9,115,3.00
+Cassava,Ashanti,January,0.06,6.7,0.37,6.0,25.8,50,21.50
+Cassava,Ashanti,February,0.07,7.0,0.39,6.1,26.0,60,22.00
+Cassava,Ashanti,March,0.08,7.4,0.42,6.2,26.4,85,23.00
+Cassava,Ashanti,April,0.07,7.2,0.41,6.1,26.2,110,23.50
+Cassava,Ashanti,May,0.09,8.1,0.46,6.3,26.7,200,25.00
+Cassava,Ashanti,June,0.08,8.3,0.48,6.3,27.0,280,25.50
+Cassava,Ashanti,July,0.07,7.7,0.44,6.2,26.5,180,24.00
+Cassava,Ashanti,August,0.06,6.5,0.36,6.0,25.7,75,21.00
+Cassava,Ashanti,September,0.07,7.1,0.40,6.1,26.3,120,22.50
+Cassava,Ashanti,October,0.09,8.4,0.49,6.3,27.1,260,25.30
+Cassava,Ashanti,November,0.08,7.6,0.43,6.2,26.6,190,24.00
+Cassava,Ashanti,December,0.06,6.8,0.38,6.0,25.9,115,22.00
+Plantain,Ashanti,January,0.06,6.6,0.37,6.0,25.8,50,12.70
+Plantain,Ashanti,February,0.07,6.9,0.39,6.1,26.0,60,13.00
+Plantain,Ashanti,March,0.08,7.3,0.42,6.2,26.4,85,13.80
+Plantain,Ashanti,April,0.07,7.1,0.41,6.1,26.2,110,14.10
+Plantain,Ashanti,May,0.09,8.0,0.46,6.3,26.7,200,14.80
+Plantain,Ashanti,June,0.08,8.2,0.48,6.3,27.0,280,15.30
+Plantain,Ashanti,July,0.07,7.6,0.44,6.2,26.5,180,14.30
+Plantain,Ashanti,August,0.06,6.4,0.36,6.0,25.7,75,12.50
+Plantain,Ashanti,September,0.07,7.0,0.40,6.1,26.3,120,13.50
+Plantain,Ashanti,October,0.09,8.3,0.49,6.3,27.1,260,15.00
+Plantain,Ashanti,November,0.08,7.5,0.43,6.2,26.6,190,14.20
+Plantain,Ashanti,December,0.06,6.7,0.38,6.0,25.9,115,13.00
+Maize,Western,January,0.06,6.5,0.36,5.8,26.5,50,2.20
+Maize,Western,February,0.07,6.8,0.38,5.9,26.8,59,2.30
+Maize,Western,March,0.08,7.2,0.41,6.0,27.2,82,2.50
+Maize,Western,April,0.07,7.0,0.40,5.9,27.0,108,2.60
+Maize,Western,May,0.09,7.8,0.45,6.1,27.5,203,2.80
+Maize,Western,June,0.08,8.0,0.47,6.2,27.8,295,3.00
+Maize,Western,July,0.07,7.5,0.43,6.0,27.3,187,2.70
+Maize,Western,August,0.06,6.4,0.35,5.8,26.2,76,2.10
+Maize,Western,September,0.07,6.9,0.39,5.9,26.9,119,2.40
+Maize,Western,October,0.09,8.1,0.48,6.2,27.9,272,2.90
+Maize,Western,November,0.08,7.4,0.42,6.0,27.4,198,2.60
+Maize,Western,December,0.06,6.6,0.37,5.8,26.6,118,2.30
+Rice,Western,January,0.06,6.6,0.37,5.8,26.5,50,2.80
+Rice,Western,February,0.07,6.9,0.39,5.9,26.8,59,2.90
+Rice,Western,March,0.08,7.3,0.42,6.0,27.2,82,3.10
+Rice,Western,April,0.07,7.1,0.41,5.9,27.0,108,3.20
+Rice,Western,May,0.09,8.0,0.46,6.1,27.5,203,3.50
+Rice,Western,June,0.08,8.2,0.48,6.2,27.8,295,3.70
+Rice,Western,July,0.07,7.6,0.44,6.0,27.3,187,3.30
+Rice,Western,August,0.06,6.5,0.36,5.8,26.2,76,2.70
+Rice,Western,September,0.07,7.0,0.40,5.9,26.9,119,3.00
+Rice,Western,October,0.09,8.3,0.49,6.2,27.9,272,3.60
+Rice,Western,November,0.08,7.5,0.43,6.0,27.4,198,3.20
+Rice,Western,December,0.06,6.7,0.38,5.8,26.6,118,2.90
+Cassava,Western,January,0.06,6.8,0.38,5.9,26.5,50,21.00
+Cassava,Western,February,0.07,7.1,0.40,6.0,26.8,59,21.50
+Cassava,Western,March,0.08,7.5,0.43,6.1,27.2,82,22.50
+Cassava,Western,April,0.07,7.3,0.42,6.0,27.0,108,23.00
+Cassava,Western,May,0.09,8.2,0.47,6.2,27.5,203,24.50
+Cassava,Western,June,0.08,8.4,0.49,6.3,27.8,295,25.00
+Cassava,Western,July,0.07,7.8,0.45,6.1,27.3,187,23.50
+Cassava,Western,August,0.06,6.6,0.37,5.9,26.2,76,20.50
+Cassava,Western,September,0.07,7.2,0.41,6.0,26.9,119,22.00
+Cassava,Western,October,0.09,8.5,0.50,6.3,27.9,272,24.80
+Cassava,Western,November,0.08,7.7,0.44,6.1,27.4,198,23.50
+Cassava,Western,December,0.06,6.9,0.39,5.9,26.6,118,21.50
+Plantain,Western,January,0.06,6.7,0.38,5.9,26.5,50,12.50
+Plantain,Western,February,0.07,7.0,0.40,6.0,26.8,59,12.80
+Plantain,Western,March,0.08,7.4,0.43,6.1,27.2,82,13.50
+Plantain,Western,April,0.07,7.2,0.42,6.0,27.0,108,13.80
+Plantain,Western,May,0.09,8.1,0.47,6.2,27.5,203,14.50
+Plantain,Western,June,0.08,8.3,0.49,6.3,27.8,295,15.00
+Plantain,Western,July,0.07,7.7,0.45,6.1,27.3,187,14.00
+Plantain,Western,August,0.06,6.5,0.36,5.9,26.2,76,12.00
+Plantain,Western,September,0.07,7.1,0.41,6.0,26.9,119,13.20
+Plantain,Western,October,0.09,8.4,0.50,6.3,27.9,272,14.80
+Plantain,Western,November,0.08,7.6,0.44,6.1,27.4,198,13.80
+Plantain,Western,December,0.06,6.8,0.39,5.9,26.6,118,12.70
+Cocoyam,Western,January,0.08,7.7,0.43,5.6,27.8,50,5.80
+Cocoyam,Western,February,0.09,8.2,0.47,5.7,28.1,59,6.10
+Cocoyam,Western,March,0.07,7.2,0.41,5.5,27.2,82,5.60
+Cocoyam,Western,April,0.06,6.8,0.39,5.4,26.8,108,5.40
+Cocoyam,Western,May,0.08,7.5,0.44,5.6,27.5,203,5.90
+Cocoyam,Western,June,0.07,7.0,0.40,5.5,27.0,295,5.65
+Cocoyam,Western,July,0.09,8.6,0.49,5.8,28.3,187,6.20
+Cocoyam,Western,August,0.05,6.4,0.35,5.2,26.3,76,5.10
+Cocoyam,Western,September,0.06,6.6,0.37,5.3,26.6,119,5.30
+Cocoyam,Western,October,0.08,7.8,0.45,5.6,27.7,272,6.00
+Cocoyam,Western,November,0.07,6.9,0.42,5.5,27.1,198,5.70
+Cocoyam,Western,December,0.06,6.5,0.36,5.3,26.5,118,5.25
+Cocoyam,Western,May,0.09,9.0,0.50,5.9,28.5,203,6.30
+Cocoyam,Western,March,0.07,7.3,0.43,5.5,27.3,82,5.75
+Cocoyam,Western,June,0.08,8.0,0.46,5.7,27.9,295,6.15
+Cocoyam,Western,February,0.05,6.2,0.34,5.2,26.1,59,5.00
+Cocoyam,Western,September,0.06,6.9,0.38,5.4,26.9,119,5.55
+Cocoyam,Western,April,0.08,7.6,0.44,5.6,27.6,108,5.95
+Cocoyam,Western,October,0.09,9.1,0.52,5.8,28.6,272,6.35
+Cocoyam,Western,January,0.07,7.1,0.41,5.5,27.4,50,5.65
+Yam,Western,February,0.08,7.9,0.46,5.6,27.8,59,6.40
+Yam,Western,March,0.09,8.3,0.49,5.7,28.0,82,6.60
+Yam,Western,April,0.07,7.1,0.42,5.5,27.3,108,6.20
+Yam,Western,May,0.06,6.7,0.39,5.4,26.8,203,5.95
+Yam,Western,June,0.08,7.6,0.45,5.6,27.6,295,6.50
+Yam,Western,July,0.07,7.0,0.41,5.5,27.0,187,6.15
+Yam,Western,August,0.09,8.8,0.50,5.8,28.3,76,6.75
+Yam,Western,September,0.05,6.3,0.36,5.2,26.2,119,5.80
+Yam,Western,October,0.06,6.5,0.38,5.3,26.5,272,5.90
+Yam,Western,November,0.08,7.7,0.47,5.6,27.7,198,6.55
+Yam,Western,December,0.07,7.2,0.43,5.5,27.1,118,6.25
+Yam,Western,January,0.06,6.6,0.37,5.3,26.6,50,5.85
+Yam,Western,June,0.09,9.0,0.52,5.9,28.5,295,6.80
+Yam,Western,September,0.07,7.4,0.44,5.5,27.3,119,6.30
+Yam,Western,October,0.08,8.1,0.48,5.7,27.9,272,6.70
+Yam,Western,February,0.05,6.1,0.34,5.2,26.0,59,5.70
+Yam,Western,July,0.06,6.8,0.39,5.4,26.9,187,6.00
+Yam,Western,May,0.08,7.5,0.45,5.6,27.5,203,6.45
+Yam,Western,June,0.09,9.2,0.53,5.8,28.6,295,6.85
+Yam,Western,August,0.07,7.3,0.42,5.5,27.4,76,6.20
+Tomato,Western,March,0.08,8.0,0.48,5.6,27.9,82,10.10
+Tomato,Western,April,0.09,8.5,0.51,5.7,28.1,108,10.30
+Tomato,Western,May,0.07,7.4,0.44,5.5,27.3,203,9.90
+Tomato,Western,June,0.06,7.0,0.41,5.4,26.8,295,9.60
+Tomato,Western,July,0.08,7.8,0.47,5.6,27.6,187,10.20
+Tomato,Western,August,0.07,7.2,0.43,5.5,27.1,76,9.80
+Tomato,Western,September,0.09,9.0,0.52,5.8,28.3,119,10.50
+Tomato,Western,October,0.05,6.5,0.38,5.2,26.2,272,9.30
+Tomato,Western,November,0.06,6.8,0.40,5.3,26.6,148,9.50
+Tomato,Western,December,0.08,8.1,0.49,5.6,27.7,118,10.25
+Tomato,Western,January,0.07,7.3,0.45,5.5,27.2,50,9.95
+Tomato,Western,February,0.06,6.7,0.39,5.3,26.5,59,9.60
+Tomato,Western,May,0.09,9.3,0.53,5.9,28.5,203,10.60
+Tomato,Western,March,0.07,7.5,0.46,5.5,27.4,82,10.00
+Tomato,Western,April,0.08,8.3,0.50,5.7,27.8,108,10.40
+Tomato,Western,August,0.05,6.3,0.36,5.2,26.1,76,9.20
+Tomato,Western,November,0.06,6.9,0.42,5.4,26.9,148,9.70
+Tomato,Western,July,0.08,7.9,0.48,5.6,27.6,187,10.15
+Tomato,Western,June,0.09,9.1,0.54,5.8,28.6,295,10.65
+Tomato,Western,January,0.07,7.6,0.44,5.5,27.5,50,9.85
+Pepper,Western,April,0.08,8.1,0.50,5.6,27.9,108,14.80
+Pepper,Western,May,0.09,8.6,0.54,5.7,28.0,203,15.20
+Pepper,Western,June,0.07,7.5,0.46,5.5,27.3,295,14.50
+Pepper,Western,July,0.06,7.1,0.43,5.4,26.8,187,14.20
+Pepper,Western,August,0.08,7.9,0.49,5.6,27.6,76,15.00
+Pepper,Western,September,0.07,7.3,0.45,5.5,27.0,119,14.60
+Pepper,Western,October,0.09,9.1,0.55,5.8,28.3,272,15.40
+Pepper,Western,November,0.05,6.6,0.40,5.2,26.3,198,13.80
+Pepper,Western,December,0.06,6.9,0.42,5.3,26.6,118,14.10
+Pepper,Western,January,0.08,8.2,0.51,5.6,27.7,50,15.10
+Pepper,Western,February,0.07,7.4,0.47,5.5,27.1,59,14.70
+Pepper,Western,March,0.06,6.8,0.41,5.3,26.5,82,13.90
+Pepper,Western,July,0.09,9.4,0.56,5.9,28.5,187,15.50
+Pepper,Western,August,0.07,7.6,0.48,5.5,27.4,76,14.90
+Pepper,Western,September,0.08,8.4,0.53,5.7,27.8,119,15.30
+Pepper,Western,December,0.05,6.4,0.38,5.2,26.1,118,13.70
+Pepper,Western,October,0.06,7.0,0.44,5.4,26.9,272,14.30
+Pepper,Western,January,0.08,8.0,0.50,5.6,27.6,50,15.05
+Pepper,Western,February,0.09,9.3,0.57,5.8,28.6,59,15.60
+Pepper,Western,March,0.07,7.7,0.46,5.5,27.5,82,14.60

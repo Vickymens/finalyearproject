@@ -1,0 +1,993 @@
+Region,Month,Temp_C,Rainfall_mm
+Volta,January,25.9,50
+Volta,February,26.1,55
+Volta,March,26.4,80
+Volta,April,26.2,105
+Volta,May,26.7,195
+Volta,June,27,270
+Volta,July,26.5,175
+Volta,August,25.8,70
+Volta,September,26.3,115
+Volta,October,27.1,250
+Volta,November,26.6,185
+Volta,December,26,105
+Volta,January,25.9,50
+Volta,February,26.1,55
+Volta,March,26.4,80
+Volta,April,26.2,105
+Volta,May,26.7,195
+Volta,June,27,270
+Volta,July,26.5,175
+Volta,August,25.8,70
+Volta,September,26.3,115
+Volta,October,27.1,250
+Volta,November,26.6,185
+Volta,December,26,105
+Volta,January,25.9,50
+Volta,February,26.1,55
+Volta,March,26.4,80
+Volta,April,26.2,105
+Volta,May,26.7,195
+Volta,June,27,270
+Volta,July,26.5,175
+Volta,August,25.8,70
+Volta,September,26.3,115
+Volta,October,27.1,250
+Volta,November,26.6,185
+Volta,December,26,105
+Volta,January,25.9,50
+Volta,February,26.1,55
+Volta,March,26.4,80
+Volta,April,26.2,105
+Volta,May,26.7,195
+Volta,June,27,270
+Volta,July,26.5,175
+Volta,August,25.8,70
+Volta,September,26.3,115
+Volta,October,27.1,250
+Volta,November,26.6,185
+Volta,December,26,105
+Volta,January,26,50
+Volta,February,26.2,55
+Volta,March,26.5,80
+Volta,April,26.3,105
+Volta,May,26.8,195
+Volta,June,27.1,270
+Volta,July,26.6,175
+Volta,August,25.9,70
+Volta,September,26.4,115
+Volta,October,27.2,250
+Volta,November,26.7,185
+Volta,December,26.1,105
+Volta,January,26,50
+Volta,February,26.2,55
+Volta,March,26.5,80
+Volta,April,26.3,105
+Volta,May,26.8,195
+Volta,June,27.1,270
+Volta,July,26.6,175
+Volta,August,25.9,70
+Volta,September,26.4,115
+Volta,October,27.2,250
+Volta,November,26.7,185
+Volta,December,26.1,105
+Volta,January,26,50
+Volta,February,26.2,55
+Volta,March,26.5,80
+Volta,April,26.3,105
+Volta,May,26.8,195
+Volta,June,27.1,270
+Volta,July,26.6,175
+Volta,August,25.9,70
+Volta,September,26.4,115
+Volta,October,27.2,250
+Volta,November,26.7,185
+Volta,December,26.1,105
+Volta,January,26,50
+Volta,February,26.2,55
+Volta,March,26.5,80
+Volta,April,26.3,105
+Volta,May,26.8,195
+Volta,June,27.1,270
+Volta,July,26.6,175
+Volta,August,25.9,70
+Volta,September,26.4,115
+Volta,October,27.2,250
+Volta,November,26.7,185
+Volta,December,26.1,105
+Upper West,January,26.8,5
+Upper West,February,27.1,10
+Upper West,March,27.5,25
+Upper West,April,27.8,50
+Upper West,May,28.1,110
+Upper West,June,28.3,180
+Upper West,July,28.5,240
+Upper West,August,28.3,280
+Upper West,September,28.1,260
+Upper West,October,27.8,180
+Upper West,November,27.3,70
+Upper West,December,26.9,15
+Upper West,January,26.8,5
+Upper West,February,27.1,10
+Upper West,March,27.5,25
+Upper West,April,27.8,50
+Upper West,May,28.1,110
+Upper West,June,28.3,180
+Upper West,July,28.5,240
+Upper West,August,28.3,280
+Upper West,September,28.1,260
+Upper West,October,27.8,180
+Upper West,November,27.3,70
+Upper West,December,26.9,15
+Upper West,January,26.8,5
+Upper West,February,27.1,10
+Upper West,March,27.5,25
+Upper West,April,27.8,50
+Upper West,May,28.1,110
+Upper West,June,28.3,180
+Upper West,July,28.5,240
+Upper West,August,28.3,280
+Upper West,September,28.1,260
+Upper West,October,27.8,180
+Upper West,November,27.3,70
+Upper West,December,26.9,15
+Upper West,January,26.8,5
+Upper West,February,27.1,10
+Upper West,March,27.5,25
+Upper West,April,27.8,50
+Upper West,May,28.1,110
+Upper West,June,28.3,180
+Upper West,July,28.5,240
+Upper West,August,28.3,280
+Upper West,September,28.1,260
+Upper West,October,27.8,180
+Upper West,November,27.3,70
+Upper West,December,26.9,15
+Upper West,January,26.8,5
+Upper West,February,27.1,10
+Upper West,March,27.5,25
+Upper West,April,27.8,50
+Upper West,May,28.1,110
+Upper West,June,28.3,180
+Upper West,July,28.5,240
+Upper West,August,28.3,280
+Upper West,September,28.1,260
+Upper West,October,27.8,180
+Upper West,November,27.3,70
+Upper West,December,26.9,15
+Upper West,January,26.8,5
+Upper West,February,27.1,10
+Upper West,March,27.5,25
+Upper West,April,27.8,50
+Upper West,May,28.1,110
+Upper West,June,28.3,180
+Upper West,July,28.5,240
+Upper West,August,28.3,280
+Upper West,September,28.1,260
+Upper West,October,27.8,180
+Upper West,November,5.7,27.3
+Upper West,December,26.9,15
+Upper West,January,26.8,5
+Upper West,February,27.1,10
+Upper West,March,27.5,25
+Upper West,April,27.8,50
+Upper West,May,28.1,110
+Upper West,June,28.3,180
+Upper West,July,28.5,240
+Upper West,August,28.3,280
+Upper West,September,28.1,260
+Upper West,October,27.8,180
+Upper West,November,27.3,70
+Upper West,December,26.9,15
+Upper West,January,26.8,5
+Upper West,February,27.1,10
+Upper West,March,27.5,25
+Upper West,April,27.8,50
+Upper West,May,28.1,110
+Upper West,June,28.3,180
+Upper West,July,28.5,240
+Upper West,August,28.3,280
+Upper West,September,28.1,260
+Upper West,October,27.8,180
+Upper West,November,27.3,70
+Upper West,December,26.9,15
+Upper East,January,26.7,5
+Upper East,February,27,10
+Upper East,March,27.4,25
+Upper East,April,27.7,50
+Upper East,May,28,110
+Upper East,June,28.2,180
+Upper East,July,28.4,240
+Upper East,August,28.2,280
+Upper East,September,28,260
+Upper East,October,27.7,180
+Upper East,November,27.2,70
+Upper East,December,26.8,15
+Upper East,January,26.7,5
+Upper East,February,27,10
+Upper East,March,27.4,25
+Upper East,April,27.7,50
+Upper East,May,28,110
+Upper East,June,28.2,180
+Upper East,July,28.4,240
+Upper East,August,28.2,280
+Upper East,September,28,260
+Upper East,October,27.7,180
+Upper East,November,27.2,70
+Upper East,December,26.8,15
+Upper East,January,26.7,5
+Upper East,February,27,10
+Upper East,March,27.4,25
+Upper East,April,27.7,50
+Upper East,May,28,110
+Upper East,June,28.2,180
+Upper East,July,28.4,240
+Upper East,August,28.2,280
+Upper East,September,28,260
+Upper East,October,27.7,180
+Upper East,November,27.2,70
+Upper East,December,26.8,15
+Upper East,January,26.7,5
+Upper East,February,27,10
+Upper East,March,27.4,25
+Upper East,April,27.7,50
+Upper East,May,28,110
+Upper East,June,28.2,180
+Upper East,July,28.4,240
+Upper East,August,28.2,280
+Upper East,September,28,260
+Upper East,October,27.7,180
+Upper East,November,27.2,70
+Upper East,December,26.8,15
+Upper East,January,26.7,5
+Upper East,February,27,10
+Upper East,March,27.4,25
+Upper East,April,27.7,50
+Upper East,May,28,110
+Upper East,June,28.2,180
+Upper East,July,28.4,240
+Upper East,August,28.2,280
+Upper East,September,28,260
+Upper East,October,27.7,180
+Upper East,November,27.2,70
+Upper East,December,26.8,15
+Upper East,January,26.7,5
+Upper East,February,27,10
+Upper East,March,27.4,25
+Upper East,April,27.7,50
+Upper East,May,28,110
+Upper East,June,28.2,180
+Upper East,July,28.4,240
+Upper East,August,28.2,280
+Upper East,September,28,260
+Upper East,October,27.7,180
+Upper East,November,27.2,70
+Upper East,December,26.8,15
+Upper East,January,26.7,5
+Upper East,February,27,10
+Upper East,March,27.4,25
+Upper East,April,27.7,50
+Upper East,May,28,110
+Upper East,June,28.2,180
+Upper East,July,28.4,240
+Upper East,August,28.2,280
+Upper East,September,28,260
+Upper East,October,27.7,180
+Upper East,November,27.2,70
+Upper East,December,26.8,15
+Upper East,January,26.7,5
+Upper East,February,27,10
+Upper East,March,27.4,25
+Upper East,April,27.7,50
+Upper East,May,28,110
+Upper East,June,28.2,180
+Upper East,July,28.4,240
+Upper East,August,28.2,280
+Upper East,September,28,260
+Upper East,October,27.7,180
+Upper East,November,27.2,70
+Upper East,December,26.8,15
+Northern,January,26.5,10
+Northern,February,26.8,15
+Northern,March,27.2,30
+Northern,April,27.5,60
+Northern,May,27.8,120
+Northern,June,28,200
+Northern,July,28.2,260
+Northern,August,28,300
+Northern,September,27.8,280
+Northern,October,27.5,200
+Northern,November,27,80
+Northern,December,26.6,20
+Northern,January,26.5,10
+Northern,February,26.8,15
+Northern,March,27.2,30
+Northern,April,27.5,60
+Northern,May,27.8,120
+Northern,June,28,200
+Northern,July,28.2,260
+Northern,August,28,300
+Northern,September,27.8,280
+Northern,October,27.5,200
+Northern,November,27,80
+Northern,December,26.6,20
+Northern,January,26.5,10
+Northern,February,26.8,15
+Northern,March,27.2,30
+Northern,April,27.5,60
+Northern,May,27.8,120
+Northern,June,28,200
+Northern,July,28.2,260
+Northern,August,28,300
+Northern,September,27.8,280
+Northern,October,27.5,200
+Northern,November,27,80
+Northern,December,26.6,20
+Northern,January,26.5,10
+Northern,February,26.8,15
+Northern,March,27.2,30
+Northern,April,27.5,60
+Northern,May,27.8,120
+Northern,June,28,200
+Northern,July,28.2,260
+Northern,August,28,300
+Northern,September,27.8,280
+Northern,October,27.5,200
+Northern,November,27,80
+Northern,December,26.6,20
+Northern,January,26.5,10
+Northern,February,26.8,15
+Northern,March,27.2,30
+Northern,April,27.5,60
+Northern,May,27.8,120
+Northern,June,28,200
+Northern,July,28.2,260
+Northern,August,28,300
+Northern,September,27.8,280
+Northern,October,27.5,200
+Northern,November,27,80
+Northern,December,26.6,20
+Northern,January,26.5,10
+Northern,February,26.8,15
+Northern,March,27.2,30
+Northern,April,27.5,60
+Northern,May,27.8,120
+Northern,June,28,200
+Northern,July,28.2,260
+Northern,August,28,300
+Northern,September,27.8,280
+Northern,October,27.5,200
+Northern,November,27,80
+Northern,December,26.6,20
+Northern,January,26.5,10
+Northern,February,26.8,15
+Northern,March,27.2,30
+Northern,April,27.5,60
+Northern,May,27.8,120
+Northern,June,28,200
+Northern,July,28.2,260
+Northern,August,28,300
+Northern,September,27.8,280
+Northern,October,27.5,200
+Northern,November,27,80
+Northern,December,26.6,20
+Northern,January,26.5,10
+Northern,February,26.8,15
+Northern,March,27.2,30
+Northern,April,27.5,60
+Northern,May,27.8,120
+Northern,June,28,200
+Northern,July,28.2,260
+Northern,August,28,300
+Northern,September,27.8,280
+Northern,October,27.5,200
+Northern,November,27,80
+Northern,December,26.6,20
+Greater Accra,January,26.1,40
+Greater Accra,February,26.3,45
+Greater Accra,March,26.6,70
+Greater Accra,April,26.4,95
+Greater Accra,May,26.9,180
+Greater Accra,June,27.2,250
+Greater Accra,July,26.7,160
+Greater Accra,August,26,60
+Greater Accra,September,26.5,100
+Greater Accra,October,27.3,230
+Greater Accra,November,26.8,170
+Greater Accra,December,26.2,95
+Greater Accra,January,26.1,40
+Greater Accra,February,26.3,45
+Greater Accra,March,26.6,70
+Greater Accra,April,26.4,95
+Greater Accra,May,26.9,180
+Greater Accra,June,27.2,250
+Greater Accra,July,26.7,160
+Greater Accra,August,26,60
+Greater Accra,September,26.5,100
+Greater Accra,October,27.3,230
+Greater Accra,November,26.8,170
+Greater Accra,December,26.2,95
+Greater Accra,January,26.1,40
+Greater Accra,February,26.3,45
+Greater Accra,March,26.6,70
+Greater Accra,April,26.4,95
+Greater Accra,May,26.9,180
+Greater Accra,June,27.2,250
+Greater Accra,July,26.7,160
+Greater Accra,August,26,60
+Greater Accra,September,26.5,100
+Greater Accra,October,27.3,230
+Greater Accra,November,26.8,170
+Greater Accra,December,26.2,95
+Greater Accra,January,26.1,40
+Greater Accra,February,26.3,45
+Greater Accra,March,26.6,70
+Greater Accra,April,26.4,95
+Greater Accra,May,26.9,180
+Greater Accra,June,27.2,250
+Greater Accra,July,26.7,160
+Greater Accra,August,26,60
+Greater Accra,September,26.5,100
+Greater Accra,October,27.3,230
+Greater Accra,November,26.8,170
+Greater Accra,December,26.2,95
+Greater Accra,January,26.2,40
+Greater Accra,February,26.4,45
+Greater Accra,March,26.7,70
+Greater Accra,April,26.5,95
+Greater Accra,May,27,180
+Greater Accra,June,27.3,250
+Greater Accra,July,26.8,160
+Greater Accra,August,26.1,60
+Greater Accra,September,26.6,100
+Greater Accra,October,27.4,230
+Greater Accra,November,26.9,170
+Greater Accra,December,26.3,95
+Greater Accra,January,26.2,40
+Greater Accra,February,26.4,45
+Greater Accra,March,26.7,70
+Greater Accra,April,26.5,95
+Greater Accra,May,27,180
+Greater Accra,June,27.3,250
+Greater Accra,July,26.8,160
+Greater Accra,August,26.1,60
+Greater Accra,September,26.6,100
+Greater Accra,October,27.4,230
+Greater Accra,November,26.9,170
+Greater Accra,December,26.3,95
+Greater Accra,January,26.2,40
+Greater Accra,February,26.4,45
+Greater Accra,March,26.7,70
+Greater Accra,April,26.5,95
+Greater Accra,May,27,180
+Greater Accra,June,27.3,250
+Greater Accra,July,26.8,160
+Greater Accra,August,26.1,60
+Greater Accra,September,26.6,100
+Greater Accra,October,27.4,230
+Greater Accra,November,26.9,170
+Greater Accra,December,26.3,95
+Greater Accra,January,26.2,40
+Greater Accra,February,26.4,45
+Greater Accra,March,26.7,70
+Greater Accra,April,26.5,95
+Greater Accra,May,27,180
+Greater Accra,June,27.3,250
+Greater Accra,July,26.8,160
+Greater Accra,August,26.1,60
+Greater Accra,September,26.6,100
+Greater Accra,October,27.4,230
+Greater Accra,November,26.9,170
+Greater Accra,December,26.3,95
+Eastern,January,25.9,50
+Eastern,February,26.1,55
+Eastern,March,26.4,80
+Eastern,April,26.2,105
+Eastern,May,26.7,195
+Eastern,June,27,270
+Eastern,July,26.5,175
+Eastern,August,25.8,70
+Eastern,September,26.3,115
+Eastern,October,27.1,250
+Eastern,November,26.6,185
+Eastern,December,26,105
+Eastern,January,25.9,50
+Eastern,February,26.1,55
+Eastern,March,26.4,80
+Eastern,April,26.2,105
+Eastern,May,26.7,195
+Eastern,June,27,270
+Eastern,July,26.5,175
+Eastern,August,25.8,70
+Eastern,September,26.3,115
+Eastern,October,27.1,250
+Eastern,November,26.6,185
+Eastern,December,26,105
+Eastern,January,25.9,50
+Eastern,February,26.1,55
+Eastern,March,26.4,80
+Eastern,April,26.2,105
+Eastern,May,26.7,195
+Eastern,June,27,270
+Eastern,July,26.5,175
+Eastern,August,25.8,70
+Eastern,September,26.3,115
+Eastern,October,27.1,250
+Eastern,November,26.6,185
+Eastern,December,26,105
+Eastern,January,25.9,50
+Eastern,February,26.1,55
+Eastern,March,26.4,80
+Eastern,April,26.2,105
+Eastern,May,26.7,195
+Eastern,June,27,270
+Eastern,July,26.5,175
+Eastern,August,25.8,70
+Eastern,September,26.3,115
+Eastern,October,27.1,250
+Eastern,November,26.6,185
+Eastern,December,26,105
+Eastern,January,26,50
+Eastern,February,26.2,55
+Eastern,March,26.5,80
+Eastern,April,26.3,105
+Eastern,May,26.8,195
+Eastern,June,27.1,270
+Eastern,July,26.6,175
+Eastern,August,25.9,70
+Eastern,September,26.4,115
+Eastern,October,27.2,250
+Eastern,November,26.7,185
+Eastern,December,26.1,105
+Eastern,January,26,50
+Eastern,February,26.2,55
+Eastern,March,26.5,80
+Eastern,April,26.3,105
+Eastern,May,26.8,195
+Eastern,June,27.1,270
+Eastern,July,26.6,175
+Eastern,August,25.9,70
+Eastern,September,26.4,115
+Eastern,October,27.2,250
+Eastern,November,26.7,185
+Eastern,December,26.1,105
+Eastern,January,26,50
+Eastern,February,26.2,55
+Eastern,March,26.5,80
+Eastern,April,26.3,105
+Eastern,May,26.8,195
+Eastern,June,27.1,270
+Eastern,July,26.6,175
+Eastern,August,25.9,70
+Eastern,September,26.4,115
+Eastern,October,27.2,250
+Eastern,November,26.7,185
+Eastern,December,26.1,105
+Eastern,January,26,50
+Eastern,February,26.2,55
+Eastern,March,26.5,80
+Eastern,April,26.3,105
+Eastern,May,26.8,195
+Eastern,June,27.1,270
+Eastern,July,26.6,175
+Eastern,August,25.9,70
+Eastern,September,26.4,115
+Eastern,October,27.2,250
+Eastern,November,26.7,185
+Eastern,December,26.1,105
+Central,January,25.9,50
+Central,February,26.1,55
+Central,March,26.4,80
+Central,April,26.2,105
+Central,May,26.7,195
+Central,June,27,270
+Central,July,26.5,175
+Central,August,25.8,70
+Central,September,26.3,115
+Central,October,27.1,250
+Central,November,26.6,185
+Central,December,26,105
+Central,January,25.9,50
+Central,February,26.1,55
+Central,March,26.4,80
+Central,April,26.2,105
+Central,May,26.7,195
+Central,June,27,270
+Central,July,26.5,175
+Central,August,25.8,70
+Central,September,26.3,115
+Central,October,27.1,250
+Central,November,26.6,185
+Central,December,26,105
+Central,January,25.9,50
+Central,February,26.1,55
+Central,March,26.4,80
+Central,April,26.2,105
+Central,May,26.7,195
+Central,June,27,270
+Central,July,26.5,175
+Central,August,25.8,70
+Central,September,26.3,115
+Central,October,27.1,250
+Central,November,26.6,185
+Central,December,26,105
+Central,January,25.9,50
+Central,February,26.1,55
+Central,March,26.4,80
+Central,April,26.2,105
+Central,May,26.7,195
+Central,June,27,270
+Central,July,26.5,175
+Central,August,25.8,70
+Central,September,26.3,115
+Central,October,27.1,250
+Central,November,26.6,185
+Central,December,26,105
+Central,January,26,50
+Central,February,26.2,55
+Central,March,26.5,80
+Central,April,26.3,105
+Central,May,26.8,195
+Central,June,27.1,270
+Central,July,26.6,175
+Central,August,25.9,70
+Central,September,26.4,115
+Central,October,27.2,250
+Central,November,26.7,185
+Central,December,26.1,105
+Central,January,26,50
+Central,February,26.2,55
+Central,March,26.5,80
+Central,April,26.3,105
+Central,May,26.8,195
+Central,June,27.1,270
+Central,July,26.6,175
+Central,August,25.9,70
+Central,September,26.4,115
+Central,October,27.2,250
+Central,November,26.7,185
+Central,December,26.1,105
+Central,January,26,50
+Central,February,26.2,55
+Central,March,26.5,80
+Central,April,26.3,105
+Central,May,26.8,195
+Central,June,27.1,270
+Central,July,26.6,175
+Central,August,25.9,70
+Central,September,26.4,115
+Central,October,27.2,250
+Central,November,26.7,185
+Central,December,26.1,105
+Central,January,26,50
+Central,February,26.2,55
+Central,March,26.5,80
+Central,April,26.3,105
+Central,May,26.8,195
+Central,June,27.1,270
+Central,July,26.6,175
+Central,August,25.9,70
+Central,September,26.4,115
+Central,October,27.2,250
+Central,November,26.7,185
+Central,December,26.1,105
+Brong-Ahafo,January,25.9,50
+Brong-Ahafo,February,26.1,55
+Brong-Ahafo,March,26.5,80
+Brong-Ahafo,April,26.3,100
+Brong-Ahafo,May,26.8,190
+Brong-Ahafo,June,27.1,260
+Brong-Ahafo,July,26.6,170
+Brong-Ahafo,August,25.8,70
+Brong-Ahafo,September,26.4,110
+Brong-Ahafo,October,27.2,240
+Brong-Ahafo,November,26.7,180
+Brong-Ahafo,December,26,100
+Brong-Ahafo,January,25.9,50
+Brong-Ahafo,February,26.1,55
+Brong-Ahafo,March,26.5,80
+Brong-Ahafo,April,26.3,100
+Brong-Ahafo,May,26.8,190
+Brong-Ahafo,June,27.1,260
+Brong-Ahafo,July,26.6,170
+Brong-Ahafo,August,25.8,70
+Brong-Ahafo,September,26.4,110
+Brong-Ahafo,October,27.2,240
+Brong-Ahafo,November,26.7,180
+Brong-Ahafo,December,26,100
+Brong-Ahafo,January,25.9,50
+Brong-Ahafo,February,26.1,55
+Brong-Ahafo,March,26.5,80
+Brong-Ahafo,April,26.3,100
+Brong-Ahafo,May,26.8,190
+Brong-Ahafo,June,27.1,260
+Brong-Ahafo,July,26.6,170
+Brong-Ahafo,August,25.8,70
+Brong-Ahafo,September,26.4,110
+Brong-Ahafo,October,27.2,240
+Brong-Ahafo,November,26.7,180
+Brong-Ahafo,December,26,100
+Brong-Ahafo,January,25.9,50
+Brong-Ahafo,February,26.1,55
+Brong-Ahafo,March,26.5,80
+Brong-Ahafo,April,26.3,100
+Brong-Ahafo,May,26.8,190
+Brong-Ahafo,June,27.1,260
+Brong-Ahafo,July,26.6,170
+Brong-Ahafo,August,25.8,70
+Brong-Ahafo,September,26.4,110
+Brong-Ahafo,October,27.2,240
+Brong-Ahafo,November,26.7,180
+Brong-Ahafo,December,26,100
+Brong-Ahafo,January,26,50
+Brong-Ahafo,February,26.2,55
+Brong-Ahafo,March,26.6,80
+Brong-Ahafo,April,26.4,100
+Brong-Ahafo,May,26.9,190
+Brong-Ahafo,June,27.2,260
+Brong-Ahafo,July,26.7,170
+Brong-Ahafo,August,25.9,70
+Brong-Ahafo,September,26.5,110
+Brong-Ahafo,October,27.3,240
+Brong-Ahafo,November,26.8,180
+Brong-Ahafo,December,26.1,100
+Brong-Ahafo,January,26,50
+Brong-Ahafo,February,26.2,55
+Brong-Ahafo,March,26.6,80
+Brong-Ahafo,April,26.4,100
+Brong-Ahafo,May,26.9,190
+Brong-Ahafo,June,27.2,260
+Brong-Ahafo,July,26.7,170
+Brong-Ahafo,August,25.9,70
+Brong-Ahafo,September,26.5,110
+Brong-Ahafo,October,27.3,240
+Brong-Ahafo,November,26.8,180
+Brong-Ahafo,December,26.1,100
+Brong-Ahafo,January,26,50
+Brong-Ahafo,February,26.2,55
+Brong-Ahafo,March,26.6,80
+Brong-Ahafo,April,26.4,100
+Brong-Ahafo,May,26.9,190
+Brong-Ahafo,June,27.2,260
+Brong-Ahafo,July,26.7,170
+Brong-Ahafo,August,25.9,70
+Brong-Ahafo,September,26.5,110
+Brong-Ahafo,October,27.3,240
+Brong-Ahafo,November,26.8,180
+Brong-Ahafo,December,26.1,100
+Brong-Ahafo,January,26,50
+Brong-Ahafo,February,26.2,55
+Brong-Ahafo,March,26.6,80
+Brong-Ahafo,April,26.4,100
+Brong-Ahafo,May,26.9,190
+Brong-Ahafo,June,27.2,260
+Brong-Ahafo,July,26.7,170
+Brong-Ahafo,August,25.9,70
+Brong-Ahafo,September,26.5,110
+Brong-Ahafo,October,27.3,240
+Brong-Ahafo,November,26.8,180
+Brong-Ahafo,December,26.1,100
+Ashanti,January,25.8,50
+Ashanti,February,26,60
+Ashanti,March,26.4,85
+Ashanti,April,26.2,110
+Ashanti,May,26.7,200
+Ashanti,June,27,280
+Ashanti,July,26.5,180
+Ashanti,August,25.7,75
+Ashanti,September,26.3,120
+Ashanti,October,27.1,260
+Ashanti,November,26.6,190
+Ashanti,December,25.9,115
+Ashanti,January,25.8,50
+Ashanti,February,26,60
+Ashanti,March,26.4,85
+Ashanti,April,26.2,110
+Ashanti,May,26.7,200
+Ashanti,June,27,280
+Ashanti,July,26.5,180
+Ashanti,August,25.7,75
+Ashanti,September,26.3,120
+Ashanti,October,27.1,260
+Ashanti,November,26.6,190
+Ashanti,December,25.9,115
+Ashanti,January,25.8,50
+Ashanti,February,26,60
+Ashanti,March,26.4,85
+Ashanti,April,26.2,110
+Ashanti,May,26.7,200
+Ashanti,June,27,280
+Ashanti,July,26.5,180
+Ashanti,August,25.7,75
+Ashanti,September,26.3,120
+Ashanti,October,27.1,260
+Ashanti,November,26.6,190
+Ashanti,December,25.9,115
+Ashanti,January,25.8,50
+Ashanti,February,26,60
+Ashanti,March,26.4,85
+Ashanti,April,26.2,110
+Ashanti,May,26.7,200
+Ashanti,June,27,280
+Ashanti,July,26.5,180
+Ashanti,August,25.7,75
+Ashanti,September,26.3,120
+Ashanti,October,27.1,260
+Ashanti,November,26.6,190
+Ashanti,December,25.9,115
+Ashanti,January,25.8,50
+Ashanti,February,26,60
+Ashanti,March,26.4,85
+Ashanti,April,26.2,110
+Ashanti,May,26.7,200
+Ashanti,June,27,280
+Ashanti,July,26.5,180
+Ashanti,August,25.7,75
+Ashanti,September,26.3,120
+Ashanti,October,27.1,260
+Ashanti,November,26.6,190
+Ashanti,December,25.9,115
+Ashanti,January,25.8,50
+Ashanti,February,26,60
+Ashanti,March,26.4,85
+Ashanti,April,26.2,110
+Ashanti,May,26.7,200
+Ashanti,June,27,280
+Ashanti,July,26.5,180
+Ashanti,August,25.7,75
+Ashanti,September,26.3,120
+Ashanti,October,27.1,260
+Ashanti,November,26.6,190
+Ashanti,December,25.9,115
+Ashanti,January,25.8,50
+Ashanti,February,26,60
+Ashanti,March,26.4,85
+Ashanti,April,26.2,110
+Ashanti,May,26.7,200
+Ashanti,June,27,280
+Ashanti,July,26.5,180
+Ashanti,August,25.7,75
+Ashanti,September,26.3,120
+Ashanti,October,27.1,260
+Ashanti,November,26.6,190
+Ashanti,December,25.9,115
+Ashanti,January,25.8,50
+Ashanti,February,26,60
+Ashanti,March,26.4,85
+Ashanti,April,26.2,110
+Ashanti,May,26.7,200
+Ashanti,June,27,280
+Ashanti,July,26.5,180
+Ashanti,August,25.7,75
+Ashanti,September,26.3,120
+Ashanti,October,27.1,260
+Ashanti,November,26.6,190
+Ashanti,December,25.9,115
+Western,January,26.5,50
+Western,February,26.8,59
+Western,March,27.2,82
+Western,April,27,108
+Western,May,27.5,203
+Western,June,27.8,295
+Western,July,27.3,187
+Western,August,26.2,76
+Western,September,26.9,119
+Western,October,27.9,272
+Western,November,27.4,198
+Western,December,26.6,118
+Western,January,26.5,50
+Western,February,26.8,59
+Western,March,27.2,82
+Western,April,27,108
+Western,May,27.5,203
+Western,June,27.8,295
+Western,July,27.3,187
+Western,August,26.2,76
+Western,September,26.9,119
+Western,October,27.9,272
+Western,November,27.4,198
+Western,December,26.6,118
+Western,January,26.5,50
+Western,February,26.8,59
+Western,March,27.2,82
+Western,April,27,108
+Western,May,27.5,203
+Western,June,27.8,295
+Western,July,27.3,187
+Western,August,26.2,76
+Western,September,26.9,119
+Western,October,27.9,272
+Western,November,27.4,198
+Western,December,26.6,118
+Western,January,26.5,50
+Western,February,26.8,59
+Western,March,27.2,82
+Western,April,27,108
+Western,May,27.5,203
+Western,June,27.8,295
+Western,July,27.3,187
+Western,August,26.2,76
+Western,September,26.9,119
+Western,October,27.9,272
+Western,November,27.4,198
+Western,December,26.6,118
+Western,January,27.8,50
+Western,February,28.1,59
+Western,March,27.2,82
+Western,April,26.8,108
+Western,May,27.5,203
+Western,June,27,295
+Western,July,28.3,187
+Western,August,26.3,76
+Western,September,26.6,119
+Western,October,27.7,272
+Western,November,27.1,198
+Western,December,26.5,118
+Western,May,28.5,203
+Western,March,27.3,82
+Western,June,27.9,295
+Western,February,26.1,59
+Western,September,26.9,119
+Western,April,27.6,108
+Western,October,28.6,272
+Western,January,27.4,50
+Western,February,27.8,59
+Western,March,28,82
+Western,April,27.3,108
+Western,May,26.8,203
+Western,June,27.6,295
+Western,July,27,187
+Western,August,28.3,76
+Western,September,26.2,119
+Western,October,26.5,272
+Western,November,27.7,198
+Western,December,27.1,118
+Western,January,26.6,50
+Western,June,28.5,295
+Western,September,27.3,119
+Western,October,27.9,272
+Western,February,26,59
+Western,July,26.9,187
+Western,May,27.5,203
+Western,June,28.6,295
+Western,August,27.4,76
+Western,March,27.9,82
+Western,April,28.1,108
+Western,May,27.3,203
+Western,June,26.8,295
+Western,July,27.6,187
+Western,August,27.1,76
+Western,September,28.3,119
+Western,October,26.2,272
+Western,November,26.6,148
+Western,December,27.7,118
+Western,January,27.2,50
+Western,February,26.5,59
+Western,May,28.5,203
+Western,March,27.4,82
+Western,April,27.8,108
+Western,August,26.1,76
+Western,November,26.9,148
+Western,July,27.6,187
+Western,June,28.6,295
+Western,January,27.5,50
+Western,April,27.9,108
+Western,May,28,203
+Western,June,27.3,295
+Western,July,26.8,187
+Western,August,27.6,76
+Western,September,27,119
+Western,October,28.3,272
+Western,November,26.3,198
+Western,December,26.6,118
+Western,January,27.7,50
+Western,February,27.1,59
+Western,March,26.5,82
+Western,July,28.5,187
+Western,August,27.4,76
+Western,September,27.8,119
+Western,December,26.1,118
+Western,October,26.9,272
+Western,January,27.6,50
+Western,February,28.6,59
+Western,March,27.5,82

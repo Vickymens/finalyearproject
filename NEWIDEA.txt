@@ -1,0 +1,54 @@
+
+Region,Crop,Min_Month,Max_Month,Optimal_Season,Min_N(kg/ha),Max_N(kg/ha),Min_P(mg/kg),Max_P(mg/kg),Min_K(mg/kg),Max_K(mg/kg),Min_Ca(mg/kg),Max_Ca(mg/kg),Min_Mg(mg/kg),Max_Mg(mg/kg),Min_pH,Max_pH,Additional_Notes
+Greater Accra,Maize,3,4,Major Rainy (Apr–Jul),80,120,20,40,100,150,,,6.0,7.0,Needs irrigation in dry season; Akuse clays suitable.
+Greater Accra,Tomato,3,4,Major Rainy (Apr–Jul),100,150,30,50,150,200,,,6.0,6.8,High fertilizer use; well-drained soils.
+Greater Accra,Pineapple,12,18,Year-round (with irrigation),150,200,20,40,200,300,,40,60,4.5,5.5,Smooth Cayenne variety; coastal soils ideal.
+Greater Accra,Okra,2,3,Major Rainy (Apr–Jul),60,100,20,40,80,120,,,6.0,7.0,Prefers warm, humid conditions; fast-growing.
+Greater Accra,Pepper,3,4,Major Rainy (Apr–Jul),80,120,30,50,120,180,,,6.0,6.8,Sensitive to waterlogging; needs drainage.
+Central,Cocoa,36,60,Year-round,60,100,15,30,100,150,,,5.6,6.5,Intercropped with plantain; low fertilizer use.
+Central,Cassava,9,12,Year-round,50,80,15,30,80,120,,,5.5,6.5,Tolerates poor soils; organic matter boosts yield.
+Central,Oil Palm,36,48,Year-round,80,120,20,40,150,200,,30,50,5.5,6.5,High rainfall; fertile soils needed.
+Central,Plantain,9,12,Year-round,100,150,20,40,200,300,,,5.5,6.5,High humidity; intercropped with cocoa.
+Central,Maize,3,4,Major Rainy (Apr–Jul),80,120,20,40,100,150,,,6.0,7.0,High yields with fertilizer; bi-modal rainfall.
+Western,Cocoa,36,60,Year-round,60,100,15,30,100,150,,,5.6,6.5,Major cocoa zone; shade trees recommended.
+Western,Plantain,9,12,Year-round,100,150,20,40,200,300,,,5.5,6.5,Intercropped with cocoa; high humidity.
+Western,Oil Palm,36,48,Year-round,80,120,20,40,150,200,,30,50,5.5,6.5,Rainforest zone; deep soils needed.
+Western,Rubber,60,84,Year-round,60,100,15,30,100,150,,,5.0,6.0,Plantation crop; acidic soils suitable.
+Western,Rice,3,4,Major Rainy (Apr–Jul),80,120,20,40,100,150,,,5.5,6.5,Lowland systems; irrigation for dry season.
+Eastern,Yam,7,10,Major Rainy (Mar–Jul),50,80,15,30,80,120,,,5.5,6.5,Requires staking; fertile Acrisols.
+Eastern,Maize,3,4,Major Rainy (Mar–Jul),80,120,20,40,100,150,,,6.0,7.0,Intercropped with legumes; high yields.
+Eastern,Citrus,36,48,Year-round (with irrigation),100,150,20,40,150,200,50,80,,5.5,6.5,Irrigation in dry season; coastal areas.
+Eastern,Cassava,9,12,Year-round,50,80,15,30,80,120,,,5.5,6.5,Tolerates poor soils; organic matter helps.
+Eastern,Cocoyam,8,10,Major Rainy (Mar–Jul),50,80,15,30,80,120,,,5.5,6.5,Shaded, moist environments; intercropped.
+Ashanti,Cocoa,36,60,Year-round,60,100,15,30,100,150,,,5.6,6.5,Major cocoa zone; intercropped with maize.
+Ashanti,Maize,3,4,Major Rainy (Mar–Jul),80,120,20,40,100,150,,,6.0,7.0,High yields with improved seeds; bi-modal.
+Ashanti,Plantain,9,12,Year-round,100,150,20,40,200,300,,,5.5,6.5,High humidity; intercropped with cocoa.
+Ashanti,Cocoyam,8,10,Major Rainy (Mar–Jul),50,80,15,30,80,120,,,5.5,6.5,Prefers shaded areas; moist soils.
+Ashanti,Tomato,3,4,Major Rainy (Mar–Jul),100,150,30,50,150,200,,,6.0,6.8,Needs irrigation in dry season; high fertilizer.
+Brong Ahafo,Yam,7,10,Major Rainy (Mar–Jul),50,80,15,30,80,120,,,5.5,6.5,Fertile soils; requires staking.
+Brong Ahafo,Soybean,3,4,Major Rainy (Mar–Jul),20,40,30,50,80,120,,,6.0,6.8,Rhizobia inoculation boosts yield.
+Brong Ahafo,Cashew,36,60,Year-round,60,100,15,30,100,150,,,5.0,6.0,Cash crop; well-drained soils.
+Brong Ahafo,Maize,3,4,Major Rainy (Mar–Jul),80,120,20,40,100,150,,,6.0,7.0,Transitional zone; high yields with fertilizer.
+Brong Ahafo,Groundnut,3,4,Major Rainy (Mar–Jul),20,40,30,50,80,120,50,80,,6.0,6.5,Sandy loam soils; high yields with irrigation.
+Northern,Sorghum,4,5,Rainy (Jul–Sep),40,80,15,30,80,120,,,6.0,7.5,Drought-tolerant; Guinea Savannah.
+Northern,Groundnut,3,4,Rainy (Jul–Sep),20,40,30,50,80,120,50,80,,6.0,6.5,Sandy soils; irrigation boosts yield.
+Northern,Millet,3,4,Rainy (Jul–Sep),40,80,15,30,80,120,,,6.0,7.5,Low rainfall; Sudan Savannah.
+Northern,Rice,3,4,Rainy (Jul–Sep),80,120,20,40,100,150,,,5.5,6.5,Lowland systems; irrigation for dry season.
+
+Rannymens, [6/1/2025 1:10 AM]
+Northern,Cowpea,2,3,Rainy (Jul–Sep),20,40,30,50,80,120,,,5.8,6.5,Nitrogen-fixing; drought-tolerant.
+Upper East,Millet,3,4,Rainy (Jul–Sep),40,80,15,30,80,120,,,6.0,7.5,Low rainfall; Sudan Savannah.
+Upper East,Cowpea,2,3,Rainy (Jul–Sep),20,40,30,50,80,120,,,5.8,6.5,Nitrogen-fixing; intercropped with millet.
+Upper East,Groundnut,3,4,Rainy (Jul–Sep),20,40,30,50,80,120,50,80,,6.0,6.5,Sandy soils; high yields with irrigation.
+Upper East,Sorghum,4,5,Rainy (Jul–Sep),40,80,15,30,80,120,,,6.0,7.5,Drought-tolerant; low fertilizer use.
+Upper East,Mango,36,60,Year-round (with irrigation),80,120,20,40,150,200,50,80,,5.5,6.5,Kent variety; irrigation critical.
+Upper West,Groundnut,3,4,Rainy (Jul–Sep),20,40,30,50,80,120,50,80,,6.0,6.5,Sandy loam soils; high yields.
+Upper West,Sorghum,4,5,Rainy (Jul–Sep),40,80,15,30,80,120,,,6.0,7.5,Drought-tolerant; Sudan Savannah.
+Upper West,Millet,3,4,Rainy (Jul–Sep),40,80,15,30,80,120,,,6.0,7.5,Low nutrient soils; low rainfall.
+Upper West,Cowpea,2,3,Rainy (Jul–Sep),20,40,30,50,80,120,,,5.8,6.5,Nitrogen-fixing; drought-tolerant.
+Upper West,Mango,36,60,Year-round (with irrigation),80,120,20,40,150,200,50,80,,5.5,6.5,Irrigation in dry season; cash crop.
+Volta,Rice,3,4,Major Rainy (Mar–Jul),80,120,20,40,100,150,,,5.5,6.5,Lowland systems; second crop with irrigation.
+Volta,Cassava,9,12,Year-round,50,80,15,30,80,120,,,5.5,6.5,Tolerates poor soils; organic matter boosts yield.
+Volta,Okra,2,3,Major Rainy (Mar–Jul),60,100,20,40,80,120,,,6.0,7.0,High humidity; well-drained soils.
+Volta,Maize,3,4,Major Rainy (Mar–Jul),80,120,20,40,100,150,,,6.0,7.0,High yields with fertilizer; bi-modal rainfall.
+Volta,Yam,7,10,Major Rainy (Mar–Jul),50,80,15,30,80,120,,,5.5,6.5,Requires staking; fertile soils.
